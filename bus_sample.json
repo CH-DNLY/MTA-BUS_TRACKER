@@ -1,0 +1,7196 @@
+{
+    "B42": [
+        {
+            "303345": "ROCKAWAY PKWY/SUBWAY STATION"
+        },
+        {
+            "308044": "ROCKAWAY PKWY/GLENWOOD RD"
+        },
+        {
+            "306590": "ROCKAWAY PKWY/FLATLANDS AV"
+        },
+        {
+            "303348": "ROCKAWAY PKWY/AVENUE J"
+        },
+        {
+            "303349": "ROCKAWAY PKWY/AVENUE K"
+        },
+        {
+            "303350": "ROCKAWAY PKWY/AVENUE L"
+        },
+        {
+            "303351": "ROCKAWAY PKWY/AVENUE M"
+        },
+        {
+            "303352": "ROCKAWAY PKWY/AVENUE N"
+        },
+        {
+            "303353": "ROCKAWAY PKWY/SEAVIEW AV"
+        },
+        {
+            "306405": "ROCKAWAY PKWY/SCHENCK ST"
+        }
+    ],
+    "B82": [
+        {
+            "304083": "SEAVIEW AV/PENNSYLVANIA AV"
+        },
+        {
+            "306452": "PENNSYLVANIA AV/HORNELL LOOP"
+        },
+        {
+            "304084": "PENNSYLVANIA AV/GENEVA LOOP"
+        },
+        {
+            "304085": "PENNSYLVANIA AV/SCHROEDERS AV"
+        },
+        {
+            "308864": "PENNSYLVANIA AV/VANDALIA AV"
+        },
+        {
+            "304087": "PENNSYLVANIA AV/VANDALIA AV"
+        },
+        {
+            "308160": "FLATLANDS AV/GEORGIA AV"
+        },
+        {
+            "306950": "FLATLANDS AV/LOUISIANA AV"
+        },
+        {
+            "304090": "FLATLANDS AV/WILLIAMS AV"
+        },
+        {
+            "304091": "FLATLANDS AV/E 108 ST"
+        },
+        {
+            "304092": "FLATLANDS AV/E 105 ST"
+        },
+        {
+            "308114": "FLATLANDS AV/E 103 ST"
+        },
+        {
+            "308866": "GLENWOOD RD/E 102 ST"
+        },
+        {
+            "308903": "ROCKAWAY PKWY/SUBWAY STATION"
+        },
+        {
+            "308044": "ROCKAWAY PKWY/GLENWOOD RD"
+        },
+        {
+            "306589": "FLATLANDS AV/ROCKAWAY PKWY"
+        },
+        {
+            "300608": "FLATLANDS AV/E 94 ST"
+        },
+        {
+            "300609": "FLATLANDS AV/E 92 ST"
+        },
+        {
+            "300610": "FLATLANDS AV/REMSEN AV"
+        },
+        {
+            "300611": "FLATLANDS AV/E 88 ST"
+        },
+        {
+            "300612": "FLATLANDS AV/E 86 ST"
+        },
+        {
+            "300613": "FLATLANDS AV/E 84 ST"
+        },
+        {
+            "300614": "FLATLANDS AV/E 82 ST"
+        },
+        {
+            "300615": "FLATLANDS AV/E 80 ST"
+        },
+        {
+            "308363": "FLATLANDS AV/E 78 ST"
+        },
+        {
+            "300617": "FLATLANDS AV/E 76 ST"
+        },
+        {
+            "300618": "FLATLANDS AV/RALPH AV"
+        },
+        {
+            "304113": "FLATLANDS AV/E 57 ST"
+        },
+        {
+            "304114": "FLATLANDS AV/AVENUE J"
+        },
+        {
+            "304115": "FLATLANDS AV/UTICA AV"
+        },
+        {
+            "307531": "FLATLANDS AV/SCHENECTADY AV"
+        },
+        {
+            "307532": "FLATLANDS AV/AVENUE L"
+        },
+        {
+            "307533": "FLATLANDS AV/FLATBUSH AV"
+        },
+        {
+            "308855": "KINGS HWY/RYDER ST"
+        },
+        {
+            "300461": "KINGS HWY/E 37 ST"
+        },
+        {
+            "901090": "KINGS HWY/FRASER SQ"
+        },
+        {
+            "308108": "KINGS HWY/NEW YORK AV"
+        },
+        {
+            "300464": "KINGS HWY/AVENUE N"
+        },
+        {
+            "300465": "KINGS HWY/NOSTRAND AV"
+        },
+        {
+            "300466": "KINGS HWY/E 28 ST"
+        },
+        {
+            "308002": "KINGS HWY/E 26 ST"
+        },
+        {
+            "307983": "KINGS HWY/BEDFORD AV"
+        },
+        {
+            "300469": "KINGS HWY/E 22 ST"
+        },
+        {
+            "300470": "AVENUE P/OCEAN AV"
+        },
+        {
+            "300471": "E 18 ST/AVENUE P"
+        },
+        {
+            "300472": "KINGS HWY/E 16 ST"
+        },
+        {
+            "300473": "KINGS HWY/E 13 ST"
+        },
+        {
+            "300474": "KINGS HWY/CONEY ISLAND AV"
+        },
+        {
+            "300475": "KINGS HWY/E 8 ST"
+        },
+        {
+            "300476": "KINGS HWY/OCEAN PKWY"
+        },
+        {
+            "300477": "KINGS HWY/E 4 ST"
+        },
+        {
+            "300478": "KINGS HWY/McDONALD AV"
+        },
+        {
+            "300480": "KINGS HWY/W 2 ST"
+        },
+        {
+            "300481": "KINGS HWY/W 4 ST"
+        },
+        {
+            "300482": "KINGS HWY/W 6 ST"
+        },
+        {
+            "308868": "KINGS HWY/W 8 ST"
+        },
+        {
+            "307739": "KINGS HWY/W 10 ST"
+        },
+        {
+            "306915": "KINGS HWY/W 12 ST"
+        },
+        {
+            "300486": "KINGS HWY/STILLWELL AV"
+        },
+        {
+            "300488": "BAY PKWY/79 ST"
+        },
+        {
+            "300490": "BAY PKWY/83 ST"
+        },
+        {
+            "300491": "BAY PKWY/86 ST"
+        },
+        {
+            "300492": "BAY PKWY/BENSON AV"
+        },
+        {
+            "300493": "BAY PKWY/BATH AV"
+        },
+        {
+            "300495": "CROPSEY AV/BAY PKWY"
+        },
+        {
+            "300496": "CROPSEY AV/23 AV"
+        },
+        {
+            "300497": "CROPSEY AV/24 AV"
+        },
+        {
+            "901469": "CROPSEY AV/BAY 38 ST"
+        },
+        {
+            "300499": "CROPSEY AV/25 AV"
+        },
+        {
+            "300500": "CROPSEY AV/26 AV"
+        },
+        {
+            "300501": "CROPSEY AV/BAY 44 ST"
+        },
+        {
+            "300502": "CROPSEY AV/BAY 46 ST"
+        },
+        {
+            "300503": "CROPSEY AV/BAY 49 ST"
+        },
+        {
+            "308412": "CROPSEY AV/BAY 52 ST"
+        },
+        {
+            "308413": "CROPSEY AV/HART PL"
+        },
+        {
+            "801081": "W 17 ST/NEPTUNE AV"
+        },
+        {
+            "302799": "MERMAID AV/W 17 ST"
+        },
+        {
+            "305544": "MERMAID AV/STILLWELL AV"
+        }
+    ],
+    "B25": [
+        {
+            "801177": "ALABAMA AV/FULTON ST"
+        },
+        {
+            "307238": "FULTON ST/VAN SINDEREN AV"
+        },
+        {
+            "307239": "FULTON ST/SACKMAN ST"
+        },
+        {
+            "307240": "FULTON ST/EASTERN PKWY"
+        },
+        {
+            "307241": "FULTON ST/ROCKAWAY AV"
+        },
+        {
+            "307927": "FULTON ST/THOMAS S BOYLAND ST"
+        },
+        {
+            "307243": "FULTON ST/SARATOGA AV"
+        },
+        {
+            "307244": "FULTON ST/HOWARD AV"
+        },
+        {
+            "307506": "FULTON ST/MACDOUGAL ST"
+        },
+        {
+            "307246": "FULTON ST/BUFFALO AV"
+        },
+        {
+            "307247": "FULTON ST/MALCOLM X BLVD"
+        },
+        {
+            "307248": "FULTON ST/STUYVESANT AV"
+        },
+        {
+            "307249": "FULTON ST/LEWIS AV"
+        },
+        {
+            "307541": "FULTON ST/MARCUS GARVEY BLVD"
+        },
+        {
+            "307258": "FULTON ST/KINGSTON AV"
+        },
+        {
+            "302413": "FULTON ST/TOMPKINS AV"
+        },
+        {
+            "302414": "FULTON ST/NEW YORK AV"
+        },
+        {
+            "302415": "FULTON ST/NOSTRAND AV"
+        },
+        {
+            "302416": "FULTON ST/BEDFORD AV"
+        },
+        {
+            "302418": "FULTON ST/CLASSON AV"
+        },
+        {
+            "302419": "FULTON ST/GRAND AV"
+        },
+        {
+            "302423": "FULTON ST/VANDERBILT AV"
+        },
+        {
+            "302424": "FULTON ST/ADELPHI ST"
+        },
+        {
+            "302426": "FULTON ST/GREENE AV"
+        },
+        {
+            "302427": "FULTON ST/SOUTH ELLIOT PL"
+        },
+        {
+            "302428": "FULTON ST/FORT GREENE PL"
+        },
+        {
+            "302430": "FULTON ST/HUDSON AV"
+        },
+        {
+            "302431": "FULTON ST/BOND ST"
+        },
+        {
+            "307492": "FULTON ST/DUFFIELD ST"
+        },
+        {
+            "302433": "FULTON ST/JAY ST"
+        },
+        {
+            "308791": "CADMAN PLAZA WEST/REMSEN ST"
+        },
+        {
+            "302437": "CADMAN PLAZA WEST/TILLARY ST"
+        },
+        {
+            "307355": "CADMAN PLAZA WEST/CRANBERRY ST"
+        },
+        {
+            "302440": "OLD FULTON ST/PROSPECT ST"
+        },
+        {
+            "801071": "FRONT ST/YORK ST"
+        }
+    ],
+    "B17": [
+        {
+            "307004": "EASTERN PKWY/UTICA AV"
+        },
+        {
+            "307027": "UTICA AV/CARROLL ST"
+        },
+        {
+            "306304": "UTICA AV/EMPIRE BLVD"
+        },
+        {
+            "301776": "REMSEN AV/E 51 ST"
+        },
+        {
+            "301777": "REMSEN AV/RUTLAND RD"
+        },
+        {
+            "301778": "REMSEN AV/E 54 ST"
+        },
+        {
+            "301779": "REMSEN AV/E 56 ST"
+        },
+        {
+            "308546": "REMSEN AV/LENOX RD"
+        },
+        {
+            "301781": "REMSEN AV/KINGS HWY"
+        },
+        {
+            "301783": "REMSEN AV/CHURCH AV"
+        },
+        {
+            "307994": "REMSEN AV/AVENUE A"
+        },
+        {
+            "301745": "REMSEN AV/AVENUE B"
+        },
+        {
+            "301786": "REMSEN AV/DITMAS AV"
+        },
+        {
+            "300853": "REMSEN AV/AVENUE D"
+        },
+        {
+            "301788": "REMSEN AV/FOSTER AV"
+        },
+        {
+            "301789": "REMSEN AV/FARRAGUT RD"
+        },
+        {
+            "301790": "REMSEN AV/GLENWOOD RD"
+        },
+        {
+            "301791": "REMSEN AV/FLATLANDS AV"
+        },
+        {
+            "301792": "REMSEN AV/AVENUE J"
+        },
+        {
+            "301793": "REMSEN AV/AVENUE K"
+        },
+        {
+            "301794": "REMSEN AV/AVENUE L"
+        },
+        {
+            "301795": "REMSEN AV/AVENUE M"
+        },
+        {
+            "301796": "REMSEN AV/AVENUE N"
+        },
+        {
+            "301797": "REMSEN AV/SEAVIEW AV"
+        },
+        {
+            "301798": "SEAVIEW AV/E 91 ST"
+        },
+        {
+            "301799": "SEAVIEW AV/E 93 ST"
+        },
+        {
+            "301800": "SEAVIEW AV/E 95 ST"
+        },
+        {
+            "301801": "SEAVIEW AV/ROCKAWAY PKWY"
+        },
+        {
+            "301802": "SEAVIEW AV/E 99 ST"
+        },
+        {
+            "301803": "SEAVIEW AV/E 102 ST"
+        },
+        {
+            "301804": "SEAVIEW AV/E 104 ST"
+        },
+        {
+            "901495": "SEAVIEW AV/E 108 ST"
+        }
+    ],
+    "Q24": [
+        {
+            "302058": "PATCHEN AV/LAFAYETTE AV"
+        },
+        {
+            "307228": "BROADWAY/LAFAYETTE AV"
+        },
+        {
+            "302059": "BROADWAY/GREENE AV"
+        },
+        {
+            "307154": "BROADWAY/QUINCY ST"
+        },
+        {
+            "307155": "BROADWAY/MADISON ST"
+        },
+        {
+            "306977": "BROADWAY/JEFFERSON AV"
+        },
+        {
+            "801040": "BROADWAY/HALSEY ST"
+        },
+        {
+            "302064": "BROADWAY/MACDONOUGH ST"
+        },
+        {
+            "302019": "BROADWAY/ROCKAWAY AV"
+        },
+        {
+            "302020": "BROADWAY/CHAUNCEY ST"
+        },
+        {
+            "307207": "BROADWAY/GRANITE ST"
+        },
+        {
+            "302022": "BROADWAY/HULL ST"
+        },
+        {
+            "307899": "VAN SINDEREN AV/FULTON ST"
+        },
+        {
+            "304524": "JAMAICA AV/GEORGIA AV"
+        },
+        {
+            "302073": "ATLANTIC AV/NEW JERSEY AV"
+        },
+        {
+            "302074": "ATLANTIC AV/VERMONT ST"
+        },
+        {
+            "302075": "ATLANTIC AV/BRADFORD ST"
+        },
+        {
+            "302076": "ATLANTIC AV/VAN SICLEN AV"
+        },
+        {
+            "302077": "ATLANTIC AV/SCHENCK AV"
+        },
+        {
+            "302078": "ATLANTIC AV/WARWICK ST"
+        },
+        {
+            "302080": "ATLANTIC AV/ELTON ST"
+        },
+        {
+            "302081": "ATLANTIC AV/ESSEX ST"
+        },
+        {
+            "302082": "ATLANTIC AV/BERRIMAN ST"
+        },
+        {
+            "307164": "ATLANTIC AV/MILFORD ST"
+        },
+        {
+            "307495": "ATLANTIC AV/EUCLID AV"
+        },
+        {
+            "302086": "ATLANTIC AV/CRESCENT ST"
+        },
+        {
+            "302087": "ATLANTIC AV/AUTUMN AV"
+        },
+        {
+            "302088": "ATLANTIC AV/SHERIDAN AV"
+        },
+        {
+            "504183": "ATLANTIC AV/ELDERT LN"
+        },
+        {
+            "503670": "ATLANTIC AV/75 ST"
+        },
+        {
+            "503679": "ATLANTIC AV/77 ST"
+        },
+        {
+            "503691": "ATLANTIC AV/80 ST"
+        },
+        {
+            "503719": "ATLANTIC AV/82 PL"
+        },
+        {
+            "504184": "ATLANTIC AV/84 ST"
+        },
+        {
+            "504185": "ATLANTIC AV/86 ST"
+        },
+        {
+            "504186": "ATLANTIC AV/88 ST"
+        },
+        {
+            "504187": "ATLANTIC AV/90 ST"
+        },
+        {
+            "504188": "ATLANTIC AV/92 ST"
+        },
+        {
+            "504189": "ATLANTIC AV/WOODHAVEN BLVD"
+        },
+        {
+            "504190": "ATLANTIC AV/96 ST"
+        },
+        {
+            "503645": "ATLANTIC AV/100 ST"
+        },
+        {
+            "503647": "ATLANTIC AV/102 ST"
+        },
+        {
+            "503649": "ATLANTIC AV/104 ST"
+        },
+        {
+            "503651": "ATLANTIC AV/106 ST"
+        },
+        {
+            "503652": "ATLANTIC AV/108 ST"
+        },
+        {
+            "503654": "ATLANTIC AV/111 ST"
+        },
+        {
+            "503656": "ATLANTIC AV/114 ST"
+        },
+        {
+            "503658": "ATLANTIC AV/117 ST"
+        },
+        {
+            "504191": "ATLANTIC AV/LEFFERTS BLVD"
+        },
+        {
+            "503660": "ATLANTIC AV/121 ST"
+        },
+        {
+            "504979": "ATLANTIC AV/124 ST"
+        },
+        {
+            "503663": "ATLANTIC AV/127 ST"
+        },
+        {
+            "503665": "ATLANTIC AV/130 ST"
+        },
+        {
+            "505165": "ATLANTIC AV/132 ST"
+        },
+        {
+            "503668": "ATLANTIC AV/134 ST"
+        },
+        {
+            "504511": "ARCHER AV/VAN WYCK EXPWY SERVICE RD EAST"
+        },
+        {
+            "504512": "ARCHER AV/143 ST"
+        },
+        {
+            "504481": "ARCHER AV/SUTPHIN BLVD"
+        },
+        {
+            "504004": "ARCHER AV/149 ST"
+        },
+        {
+            "504981": "ARCHER AV/158 ST"
+        },
+        {
+            "552409": "ARCHER AV/160 ST"
+        },
+        {
+            "503933": "ARCHER AV/GUY R BREWER BLVD"
+        },
+        {
+            "904205": "ARCHER AV/MERRICK BLVD"
+        }
+    ],
+    "B12": [
+        {
+            "801177": "ALABAMA AV/FULTON ST"
+        },
+        {
+            "301386": "PACIFIC ST/EAST NEW YORK AV"
+        },
+        {
+            "305064": "ROCKAWAY AV/PROSPECT PL"
+        },
+        {
+            "301591": "PITKIN AV/ROCKAWAY AV"
+        },
+        {
+            "307370": "PITKIN AV/BRISTOL ST"
+        },
+        {
+            "301593": "PITKIN AV/AMBOY ST"
+        },
+        {
+            "301594": "PITKIN AV/STRAUSS ST"
+        },
+        {
+            "306348": "EAST NEW YORK AV/RALPH AV"
+        },
+        {
+            "307309": "EAST NEW YORK AV/PORTAL ST"
+        },
+        {
+            "301395": "EAST NEW YORK AV/E 96 ST"
+        },
+        {
+            "301397": "EAST NEW YORK AV/E 95 ST"
+        },
+        {
+            "301398": "EAST NEW YORK AV/MONTGOMERY ST"
+        },
+        {
+            "306438": "EMPIRE BLVD/UTICA AV"
+        },
+        {
+            "301400": "SCHENECTADY AV/LEFFERTS AV"
+        },
+        {
+            "301402": "EAST NEW YORK AV/TROY AV"
+        },
+        {
+            "301403": "ALBANY AV/EAST NEW YORK AV"
+        },
+        {
+            "301404": "ALBANY AV/MIDWOOD ST"
+        },
+        {
+            "301405": "ALBANY AV/FENIMORE ST"
+        },
+        {
+            "301406": "ALBANY AV/WINTHROP ST"
+        },
+        {
+            "301407": "CLARKSON AV/ALBANY AV"
+        },
+        {
+            "301408": "CLARKSON AV/E 39 ST"
+        },
+        {
+            "306349": "CLARKSON AV/KINGS COUNTY HOSPITAL"
+        },
+        {
+            "301409": "CLARKSON AV/NEW YORK AV"
+        },
+        {
+            "301410": "CLARKSON AV/NOSTRAND AV"
+        },
+        {
+            "301411": "CLARKSON AV/ROGERS AV"
+        },
+        {
+            "301412": "CLARKSON AV/BEDFORD AV"
+        },
+        {
+            "301413": "CLARKSON AV/FLATBUSH AV"
+        },
+        {
+            "301414": "WOODRUFF AV/OCEAN AV"
+        },
+        {
+            "901089": "PARKSIDE AV/OCEAN AV"
+        }
+    ],
+    "B14": [
+        {
+            "307269": "POSTAL FACILITY RD/BROOKLYN MAIL FACILITY"
+        },
+        {
+            "307971": "STANLEY AV/SHERIDAN AV"
+        },
+        {
+            "307599": "ELDERT LN/LORING AV"
+        },
+        {
+            "301029": "LINDEN BLVD/ELDERT LN"
+        },
+        {
+            "301030": "LINDEN BLVD/SHERIDAN AV"
+        },
+        {
+            "301560": "LINCOLN AV/BLAKE AV"
+        },
+        {
+            "301561": "SUTTER AV/AUTUMN AV"
+        },
+        {
+            "301562": "SUTTER AV/CRESCENT ST"
+        },
+        {
+            "301563": "SUTTER AV/EUCLID AV"
+        },
+        {
+            "301564": "SUTTER AV/FOUNTAIN AV"
+        },
+        {
+            "301565": "SUTTER AV/LOGAN ST"
+        },
+        {
+            "301566": "SUTTER AV/MONTAUK AV"
+        },
+        {
+            "301567": "SUTTER AV/BERRIMAN ST"
+        },
+        {
+            "301568": "SUTTER AV/ESSEX ST"
+        },
+        {
+            "301569": "SUTTER AV/ELTON ST"
+        },
+        {
+            "301570": "SUTTER AV/ASHFORD ST"
+        },
+        {
+            "301571": "SUTTER AV/JEROME ST"
+        },
+        {
+            "301572": "SUTTER AV/SCHENCK AV"
+        },
+        {
+            "301573": "SUTTER AV/VAN SICLEN AV"
+        },
+        {
+            "301574": "SUTTER AV/BRADFORD ST"
+        },
+        {
+            "301575": "SUTTER AV/VERMONT ST"
+        },
+        {
+            "301576": "SUTTER AV/PENNSYLVANIA AV"
+        },
+        {
+            "301577": "SUTTER AV/ALABAMA AV"
+        },
+        {
+            "301578": "SUTTER AV/HINSDALE ST"
+        },
+        {
+            "301579": "SUTTER AV/VAN SINDEREN AV"
+        },
+        {
+            "301580": "JUNIUS ST/SUTTER AV"
+        },
+        {
+            "301581": "JUNIUS ST/BLAKE AV"
+        },
+        {
+            "301582": "DUMONT AV/JUNIUS ST"
+        },
+        {
+            "301583": "DUMONT AV/POWELL ST"
+        },
+        {
+            "306734": "DUMONT AV/MOTHER GASTON BLVD"
+        },
+        {
+            "301585": "MOTHER GASTON BLVD/BLAKE AV"
+        },
+        {
+            "301586": "MOTHER GASTON BLVD/SUTTER AV"
+        },
+        {
+            "301588": "MOTHER GASTON BLVD/BELMONT AV"
+        },
+        {
+            "301589": "PITKIN AV/MOTHER GASTON BLVD"
+        },
+        {
+            "301590": "PITKIN AV/OSBORN ST"
+        },
+        {
+            "301591": "PITKIN AV/ROCKAWAY AV"
+        },
+        {
+            "307370": "PITKIN AV/BRISTOL ST"
+        },
+        {
+            "301593": "PITKIN AV/AMBOY ST"
+        },
+        {
+            "301594": "PITKIN AV/STRAUSS ST"
+        },
+        {
+            "301595": "PITKIN AV/LEGION ST"
+        },
+        {
+            "301598": "EASTERN PKWY/BUFFALO AV"
+        },
+        {
+            "301599": "EASTERN PKWY/ROCHESTER AV"
+        },
+        {
+            "901274": "EASTERN PKWY/UTICA AV"
+        },
+        {
+            "301601": "EASTERN PKWY/SCHENECTADY AV"
+        },
+        {
+            "307984": "EASTERN PKWY/UTICA AV"
+        }
+    ],
+    "Q56": [
+        {
+            "307899": "VAN SINDEREN AV/FULTON ST"
+        },
+        {
+            "304524": "JAMAICA AV/GEORGIA AV"
+        },
+        {
+            "304525": "JAMAICA AV/PENNSYLVANIA AV"
+        },
+        {
+            "304526": "JAMAICA AV/WYONA ST"
+        },
+        {
+            "304527": "JAMAICA AV/BRADFORD ST"
+        },
+        {
+            "304528": "JAMAICA AV/VAN SICLEN AV"
+        },
+        {
+            "304529": "JAMAICA AV/SCHENCK AV"
+        },
+        {
+            "304530": "JAMAICA AV/JEROME ST"
+        },
+        {
+            "304531": "JAMAICA AV/WARWICK ST"
+        },
+        {
+            "304532": "JAMAICA AV/ELTON ST"
+        },
+        {
+            "304533": "JAMAICA AV/SHEPHERD AV"
+        },
+        {
+            "304534": "JAMAICA AV/HALE AV"
+        },
+        {
+            "304535": "JAMAICA AV/LOGAN ST"
+        },
+        {
+            "304536": "JAMAICA AV/EUCLID AV"
+        },
+        {
+            "301493": "JAMAICA AV/CRESCENT ST"
+        },
+        {
+            "301494": "JAMAICA AV/HEMLOCK ST"
+        },
+        {
+            "304539": "JAMAICA AV/AUTUMN AV"
+        },
+        {
+            "304540": "JAMAICA AV/NICHOLS AV"
+        },
+        {
+            "307777": "JAMAICA AV/ELDERT LN"
+        },
+        {
+            "503377": "JAMAICA AV/75 ST"
+        },
+        {
+            "503378": "JAMAICA AV/77 ST"
+        },
+        {
+            "503379": "JAMAICA AV/80 ST"
+        },
+        {
+            "503380": "JAMAICA AV/85 ST"
+        },
+        {
+            "503381": "JAMAICA AV/87 ST"
+        },
+        {
+            "503382": "JAMAICA AV/89 ST"
+        },
+        {
+            "503383": "JAMAICA AV/90 ST"
+        },
+        {
+            "503384": "JAMAICA AV/WOODHAVEN BLVD"
+        },
+        {
+            "503385": "JAMAICA AV/94 ST"
+        },
+        {
+            "503386": "JAMAICA AV/96 ST"
+        },
+        {
+            "503387": "JAMAICA AV/98 ST"
+        },
+        {
+            "503388": "JAMAICA AV/102 ST"
+        },
+        {
+            "503389": "JAMAICA AV/104 ST"
+        },
+        {
+            "503390": "JAMAICA AV/107 ST"
+        },
+        {
+            "503391": "JAMAICA AV/109 ST"
+        },
+        {
+            "503392": "JAMAICA AV/111 ST"
+        },
+        {
+            "503393": "JAMAICA AV/113 ST"
+        },
+        {
+            "503394": "JAMAICA AV/115 ST"
+        },
+        {
+            "503395": "JAMAICA AV/117 ST"
+        },
+        {
+            "503396": "JAMAICA AV/LEFFERTS BLVD"
+        },
+        {
+            "503084": "JAMAICA AV/121 ST"
+        },
+        {
+            "503397": "JAMAICA AV/124 ST"
+        },
+        {
+            "503398": "JAMAICA AV/126 ST"
+        },
+        {
+            "503399": "JAMAICA AV/130 ST"
+        },
+        {
+            "503400": "JAMAICA AV/132 ST"
+        },
+        {
+            "504289": "JAMAICA AV/134 ST"
+        },
+        {
+            "503402": "JAMAICA AV/VAN WYCK EXPWY"
+        },
+        {
+            "503825": "JAMAICA AV/138 ST"
+        },
+        {
+            "503404": "JAMAICA AV/139 ST"
+        },
+        {
+            "504196": "JAMAICA AV/144 PL"
+        },
+        {
+            "503727": "JAMAICA AV/147 PL"
+        },
+        {
+            "504984": "JAMAICA AV/150 ST"
+        },
+        {
+            "503200": "JAMAICA AV/PARSONS BLVD"
+        },
+        {
+            "553036": "JAMAICA AV/160 ST"
+        },
+        {
+            "503938": "JAMAICA AV/GUY R BREWER BLVD"
+        },
+        {
+            "503614": "JAMAICA AV/165 ST"
+        },
+        {
+            "503283": "JAMAICA AV/168 ST"
+        },
+        {
+            "501422": "170 ST/JAMAICA AV"
+        }
+    ],
+    "B15": [
+        {
+            "307393": "MARCUS GARVEY BLVD/BROADWAY"
+        },
+        {
+            "301095": "MARCUS GARVEY BLVD/PARK AV"
+        },
+        {
+            "301096": "MARCUS GARVEY BLVD/MYRTLE AV"
+        },
+        {
+            "301097": "MARCUS GARVEY BLVD/WILLOUGHBY AV"
+        },
+        {
+            "301098": "MARCUS GARVEY BLVD/PULASKI ST"
+        },
+        {
+            "301099": "MARCUS GARVEY BLVD/DE KALB AV"
+        },
+        {
+            "301100": "MARCUS GARVEY BLVD/LAFAYETTE AV"
+        },
+        {
+            "301101": "MARCUS GARVEY BLVD/LEXINGTON AV"
+        },
+        {
+            "307902": "MARCUS GARVEY BLVD/GATES AV"
+        },
+        {
+            "301103": "MARCUS GARVEY BLVD/MADISON ST"
+        },
+        {
+            "301104": "MARCUS GARVEY BLVD/JEFFERSON AV"
+        },
+        {
+            "301105": "MARCUS GARVEY BLVD/HALSEY ST"
+        },
+        {
+            "301106": "MARCUS GARVEY BLVD/MACDONOUGH ST"
+        },
+        {
+            "301107": "MARCUS GARVEY BLVD/FULTON ST"
+        },
+        {
+            "301108": "ALBANY AV/FULTON ST"
+        },
+        {
+            "301109": "ALBANY AV/ATLANTIC AV"
+        },
+        {
+            "301110": "DEAN ST/ALBANY AV"
+        },
+        {
+            "307811": "DEAN ST/TROY AV"
+        },
+        {
+            "307812": "DEAN ST/SCHENECTADY AV"
+        },
+        {
+            "307813": "DEAN ST/UTICA AV"
+        },
+        {
+            "307814": "DEAN ST/ROCHESTER AV"
+        },
+        {
+            "301115": "ROCHESTER AV/BERGEN ST"
+        },
+        {
+            "301116": "SAINT MARKS AV/ROCHESTER AV"
+        },
+        {
+            "301117": "BUFFALO AV/PROSPECT PL"
+        },
+        {
+            "301118": "BUFFALO AV/PARK PL"
+        },
+        {
+            "301119": "SAINT JOHNS PL/BUFFALO AV"
+        },
+        {
+            "301120": "SAINT JOHNS PL/RALPH AV"
+        },
+        {
+            "307306": "RALPH AV/EASTERN PKWY NORTH"
+        },
+        {
+            "301122": "RALPH AV/EAST NEW YORK AV"
+        },
+        {
+            "301123": "RALPH AV/SUTTER AV"
+        },
+        {
+            "301124": "E 98 ST/WINTHROP ST"
+        },
+        {
+            "301125": "E 98 ST/CLARKSON AV"
+        },
+        {
+            "301126": "E 98 ST/LENOX RD"
+        },
+        {
+            "301127": "E 98 ST/WILLMOHR ST"
+        },
+        {
+            "301128": "E 98 ST/CHURCH AV"
+        },
+        {
+            "308230": "E 98 ST/HEGEMAN AV"
+        },
+        {
+            "307115": "HEGEMAN AV/THOMAS S BOYLAND ST"
+        },
+        {
+            "307673": "HEGEMAN AV/BRISTOL ST"
+        },
+        {
+            "301132": "HEGEMAN AV/ROCKAWAY AV"
+        },
+        {
+            "301133": "HEGEMAN AV/OSBORN ST"
+        },
+        {
+            "307390": "NEW LOTS AV/MOTHER GASTON BLVD"
+        },
+        {
+            "301135": "NEW LOTS AV/SACKMAN ST"
+        },
+        {
+            "301136": "NEW LOTS AV/VAN SINDEREN AV"
+        },
+        {
+            "301137": "NEW LOTS AV/HINSDALE ST"
+        },
+        {
+            "301138": "NEW LOTS AV/MALTA ST"
+        },
+        {
+            "301139": "NEW LOTS AV/GEORGIA AV"
+        },
+        {
+            "307989": "NEW LOTS AV/PENNSYLVANIA AV"
+        },
+        {
+            "301141": "NEW LOTS AV/VERMONT ST"
+        },
+        {
+            "301142": "NEW LOTS AV/BRADFORD ST"
+        },
+        {
+            "301143": "NEW LOTS AV/MILLER AV"
+        },
+        {
+            "301144": "NEW LOTS AV/SCHENCK AV"
+        },
+        {
+            "301145": "NEW LOTS AV/JEROME ST"
+        },
+        {
+            "301146": "NEW LOTS AV/ASHFORD ST"
+        },
+        {
+            "301147": "NEW LOTS AV/ELTON ST"
+        },
+        {
+            "301148": "NEW LOTS AV/ESSEX ST"
+        },
+        {
+            "301149": "NEW LOTS AV/BERRIMAN ST"
+        },
+        {
+            "301151": "DUMONT AV/MONTAUK AV"
+        },
+        {
+            "301152": "DUMONT AV/FOUNTAIN AV"
+        },
+        {
+            "301153": "FOUNTAIN AV/HEGEMAN AV"
+        },
+        {
+            "301154": "LINDEN BLVD SERVICE RD/FOUNTAIN AV"
+        },
+        {
+            "301155": "LINDEN BLVD/EUCLID AV"
+        },
+        {
+            "301156": "LINDEN BLVD/CRESCENT ST"
+        },
+        {
+            "307627": "LINDEN BLVD/AUTUMN AV"
+        },
+        {
+            "307332": "LINDEN BLVD/ELDERT LN"
+        },
+        {
+            "307333": "HIP CENTER PARKING LOT"
+        },
+        {
+            "308086": "LINDEN BLVD/78 ST"
+        },
+        {
+            "901200": "south conduit en eb/cohancy st"
+        },
+        {
+            "901201": "South conduit en EB/lefferts bl"
+        },
+        {
+            "904253": "LEFFERTS BLVD/AIRTRAIN STATION"
+        }
+    ],
+    "B83": [
+        {
+            "307393": "MARCUS GARVEY BLVD/BROADWAY"
+        },
+        {
+            "301095": "MARCUS GARVEY BLVD/PARK AV"
+        },
+        {
+            "301096": "MARCUS GARVEY BLVD/MYRTLE AV"
+        },
+        {
+            "301097": "MARCUS GARVEY BLVD/WILLOUGHBY AV"
+        },
+        {
+            "301098": "MARCUS GARVEY BLVD/PULASKI ST"
+        },
+        {
+            "301099": "MARCUS GARVEY BLVD/DE KALB AV"
+        },
+        {
+            "301100": "MARCUS GARVEY BLVD/LAFAYETTE AV"
+        },
+        {
+            "301101": "MARCUS GARVEY BLVD/LEXINGTON AV"
+        },
+        {
+            "307902": "MARCUS GARVEY BLVD/GATES AV"
+        },
+        {
+            "301103": "MARCUS GARVEY BLVD/MADISON ST"
+        },
+        {
+            "301104": "MARCUS GARVEY BLVD/JEFFERSON AV"
+        },
+        {
+            "301105": "MARCUS GARVEY BLVD/HALSEY ST"
+        },
+        {
+            "301106": "MARCUS GARVEY BLVD/MACDONOUGH ST"
+        },
+        {
+            "301107": "MARCUS GARVEY BLVD/FULTON ST"
+        },
+        {
+            "301108": "ALBANY AV/FULTON ST"
+        },
+        {
+            "301109": "ALBANY AV/ATLANTIC AV"
+        },
+        {
+            "301110": "DEAN ST/ALBANY AV"
+        },
+        {
+            "307811": "DEAN ST/TROY AV"
+        },
+        {
+            "307812": "DEAN ST/SCHENECTADY AV"
+        },
+        {
+            "307813": "DEAN ST/UTICA AV"
+        },
+        {
+            "307814": "DEAN ST/ROCHESTER AV"
+        },
+        {
+            "301115": "ROCHESTER AV/BERGEN ST"
+        },
+        {
+            "301116": "SAINT MARKS AV/ROCHESTER AV"
+        },
+        {
+            "301117": "BUFFALO AV/PROSPECT PL"
+        },
+        {
+            "301118": "BUFFALO AV/PARK PL"
+        },
+        {
+            "301119": "SAINT JOHNS PL/BUFFALO AV"
+        },
+        {
+            "301120": "SAINT JOHNS PL/RALPH AV"
+        },
+        {
+            "307306": "RALPH AV/EASTERN PKWY NORTH"
+        },
+        {
+            "301122": "RALPH AV/EAST NEW YORK AV"
+        },
+        {
+            "301123": "RALPH AV/SUTTER AV"
+        },
+        {
+            "301124": "E 98 ST/WINTHROP ST"
+        },
+        {
+            "301125": "E 98 ST/CLARKSON AV"
+        },
+        {
+            "301126": "E 98 ST/LENOX RD"
+        },
+        {
+            "301127": "E 98 ST/WILLMOHR ST"
+        },
+        {
+            "301128": "E 98 ST/CHURCH AV"
+        },
+        {
+            "308230": "E 98 ST/HEGEMAN AV"
+        },
+        {
+            "307115": "HEGEMAN AV/THOMAS S BOYLAND ST"
+        },
+        {
+            "307673": "HEGEMAN AV/BRISTOL ST"
+        },
+        {
+            "301132": "HEGEMAN AV/ROCKAWAY AV"
+        },
+        {
+            "301133": "HEGEMAN AV/OSBORN ST"
+        },
+        {
+            "307390": "NEW LOTS AV/MOTHER GASTON BLVD"
+        },
+        {
+            "301135": "NEW LOTS AV/SACKMAN ST"
+        },
+        {
+            "301136": "NEW LOTS AV/VAN SINDEREN AV"
+        },
+        {
+            "301137": "NEW LOTS AV/HINSDALE ST"
+        },
+        {
+            "301138": "NEW LOTS AV/MALTA ST"
+        },
+        {
+            "301139": "NEW LOTS AV/GEORGIA AV"
+        },
+        {
+            "307989": "NEW LOTS AV/PENNSYLVANIA AV"
+        },
+        {
+            "301141": "NEW LOTS AV/VERMONT ST"
+        },
+        {
+            "301142": "NEW LOTS AV/BRADFORD ST"
+        },
+        {
+            "301143": "NEW LOTS AV/MILLER AV"
+        },
+        {
+            "301144": "NEW LOTS AV/SCHENCK AV"
+        },
+        {
+            "301145": "NEW LOTS AV/JEROME ST"
+        },
+        {
+            "301146": "NEW LOTS AV/ASHFORD ST"
+        },
+        {
+            "301147": "NEW LOTS AV/ELTON ST"
+        },
+        {
+            "301148": "NEW LOTS AV/ESSEX ST"
+        },
+        {
+            "301149": "NEW LOTS AV/BERRIMAN ST"
+        },
+        {
+            "301151": "DUMONT AV/MONTAUK AV"
+        },
+        {
+            "301152": "DUMONT AV/FOUNTAIN AV"
+        },
+        {
+            "301153": "FOUNTAIN AV/HEGEMAN AV"
+        },
+        {
+            "301154": "LINDEN BLVD SERVICE RD/FOUNTAIN AV"
+        },
+        {
+            "301155": "LINDEN BLVD/EUCLID AV"
+        },
+        {
+            "301156": "LINDEN BLVD/CRESCENT ST"
+        },
+        {
+            "307627": "LINDEN BLVD/AUTUMN AV"
+        },
+        {
+            "307332": "LINDEN BLVD/ELDERT LN"
+        },
+        {
+            "307333": "HIP CENTER PARKING LOT"
+        },
+        {
+            "308086": "LINDEN BLVD/78 ST"
+        },
+        {
+            "901200": "south conduit en eb/cohancy st"
+        },
+        {
+            "901201": "South conduit en EB/lefferts bl"
+        },
+        {
+            "904253": "LEFFERTS BLVD/AIRTRAIN STATION"
+        }
+    ],
+    "B65": [
+        {
+            "308835": "SAINT JOHNS PL/RALPH AV"
+        },
+        {
+            "301067": "BUFFALO AV/SAINT JOHNS PL"
+        },
+        {
+            "306343": "BUFFALO AV/PROSPECT PL"
+        },
+        {
+            "301069": "BUFFALO AV/SAINT MARKS AV"
+        },
+        {
+            "301070": "BERGEN ST/BUFFALO AV"
+        },
+        {
+            "301071": "BERGEN ST/ROCHESTER AV"
+        },
+        {
+            "301072": "BERGEN ST/UTICA AV"
+        },
+        {
+            "301073": "BERGEN ST/SCHENECTADY AV"
+        },
+        {
+            "301074": "BERGEN ST/TROY AV"
+        },
+        {
+            "307824": "BERGEN ST/ALBANY AV"
+        },
+        {
+            "307825": "BERGEN ST/KINGSTON AV"
+        },
+        {
+            "307826": "BERGEN ST/BROOKLYN AV"
+        },
+        {
+            "305597": "BERGEN ST/NEW YORK AV"
+        },
+        {
+            "305598": "BERGEN ST/NOSTRAND AV"
+        },
+        {
+            "306495": "BERGEN ST/BEDFORD AV"
+        },
+        {
+            "305600": "BERGEN ST/FRANKLIN AV"
+        },
+        {
+            "307827": "BERGEN ST/CLASSON AV"
+        },
+        {
+            "308054": "BERGEN ST/GRAND AV"
+        },
+        {
+            "307828": "BERGEN ST/WASHINGTON AV"
+        },
+        {
+            "307829": "BERGEN ST/VANDERBILT AV"
+        },
+        {
+            "305606": "BERGEN ST/CARLTON AV"
+        },
+        {
+            "305607": "BERGEN ST/FLATBUSH AV"
+        },
+        {
+            "308131": "BERGEN ST/FLATBUSH AV"
+        },
+        {
+            "305608": "BERGEN ST/5 AV"
+        },
+        {
+            "308571": "BERGEN ST/4 AV"
+        },
+        {
+            "305610": "BERGEN ST/3 AV"
+        },
+        {
+            "305611": "BERGEN ST/NEVINS ST"
+        },
+        {
+            "305612": "BERGEN ST/BOND ST"
+        },
+        {
+            "305613": "BERGEN ST/HOYT ST"
+        },
+        {
+            "306034": "SMITH ST/BERGEN ST"
+        },
+        {
+            "307010": "SMITH ST/ATLANTIC AV"
+        },
+        {
+            "901055": "SMITH ST/LIVINGSTON ST"
+        }
+    ],
+    "B45": [
+        {
+            "308835": "SAINT JOHNS PL/RALPH AV"
+        },
+        {
+            "301067": "BUFFALO AV/SAINT JOHNS PL"
+        },
+        {
+            "306343": "BUFFALO AV/PROSPECT PL"
+        },
+        {
+            "301069": "BUFFALO AV/SAINT MARKS AV"
+        },
+        {
+            "301070": "BERGEN ST/BUFFALO AV"
+        },
+        {
+            "301071": "BERGEN ST/ROCHESTER AV"
+        },
+        {
+            "301072": "BERGEN ST/UTICA AV"
+        },
+        {
+            "301073": "BERGEN ST/SCHENECTADY AV"
+        },
+        {
+            "301074": "BERGEN ST/TROY AV"
+        },
+        {
+            "307824": "BERGEN ST/ALBANY AV"
+        },
+        {
+            "307825": "BERGEN ST/KINGSTON AV"
+        },
+        {
+            "307826": "BERGEN ST/BROOKLYN AV"
+        },
+        {
+            "305597": "BERGEN ST/NEW YORK AV"
+        },
+        {
+            "305598": "BERGEN ST/NOSTRAND AV"
+        },
+        {
+            "306495": "BERGEN ST/BEDFORD AV"
+        },
+        {
+            "305600": "BERGEN ST/FRANKLIN AV"
+        },
+        {
+            "307827": "BERGEN ST/CLASSON AV"
+        },
+        {
+            "308054": "BERGEN ST/GRAND AV"
+        },
+        {
+            "307828": "BERGEN ST/WASHINGTON AV"
+        },
+        {
+            "307829": "BERGEN ST/VANDERBILT AV"
+        },
+        {
+            "305606": "BERGEN ST/CARLTON AV"
+        },
+        {
+            "305607": "BERGEN ST/FLATBUSH AV"
+        },
+        {
+            "308131": "BERGEN ST/FLATBUSH AV"
+        },
+        {
+            "305608": "BERGEN ST/5 AV"
+        },
+        {
+            "308571": "BERGEN ST/4 AV"
+        },
+        {
+            "305610": "BERGEN ST/3 AV"
+        },
+        {
+            "305611": "BERGEN ST/NEVINS ST"
+        },
+        {
+            "305612": "BERGEN ST/BOND ST"
+        },
+        {
+            "305613": "BERGEN ST/HOYT ST"
+        },
+        {
+            "306034": "SMITH ST/BERGEN ST"
+        },
+        {
+            "307010": "SMITH ST/ATLANTIC AV"
+        },
+        {
+            "901055": "SMITH ST/LIVINGSTON ST"
+        }
+    ],
+    "B84": [
+        {
+            "803176": "SEAVIEW AV/ERSKINE ST"
+        },
+        {
+            "308664": "VANDALIA AV/ERSKINE ST"
+        },
+        {
+            "301418": "FOUNTAIN AV/VANDALIA AV"
+        },
+        {
+            "308653": "FLATLANDS AV/FOUNTAIN AV"
+        },
+        {
+            "803168": "FLATLANDS AV/ATKINS AV"
+        },
+        {
+            "803169": "FLATLANDS AV/ESSEX ST"
+        },
+        {
+            "803170": "FLATLANDS AV/ELTON ST"
+        },
+        {
+            "803171": "JEROME ST/FLATLANDS AV"
+        },
+        {
+            "306854": "ASHFORD ST/COZINE AV"
+        },
+        {
+            "306881": "ASHFORD ST/WORTMAN AV"
+        },
+        {
+            "307600": "ASHFORD ST/STANLEY AV"
+        },
+        {
+            "306855": "ASHFORD ST/LINDEN BLVD"
+        },
+        {
+            "306857": "LIVONIA AV/ASHFORD ST"
+        }
+    ],
+    "SBS82": [
+        {
+            "304083": "SEAVIEW AV/PENNSYLVANIA AV"
+        },
+        {
+            "304085": "PENNSYLVANIA AV/SCHROEDERS AV"
+        },
+        {
+            "308865": "PENNSYLVANIA AV/VANDALIA AV"
+        },
+        {
+            "306950": "FLATLANDS AV/LOUISIANA AV"
+        },
+        {
+            "304092": "FLATLANDS AV/E 105 ST"
+        },
+        {
+            "308903": "ROCKAWAY PKWY/SUBWAY STATION"
+        },
+        {
+            "300610": "FLATLANDS AV/REMSEN AV"
+        },
+        {
+            "300614": "FLATLANDS AV/E 82 ST"
+        },
+        {
+            "300618": "FLATLANDS AV/RALPH AV"
+        },
+        {
+            "304115": "FLATLANDS AV/UTICA AV"
+        },
+        {
+            "801194": "KINGS HWY/AVENUE K"
+        },
+        {
+            "308855": "KINGS HWY/RYDER ST"
+        },
+        {
+            "801195": "kings hwy/e 35 st"
+        },
+        {
+            "300465": "KINGS HWY/NOSTRAND AV"
+        },
+        {
+            "300470": "AVENUE P/OCEAN AV"
+        },
+        {
+            "300472": "KINGS HWY/E 16 ST"
+        },
+        {
+            "300474": "KINGS HWY/CONEY ISLAND AV"
+        },
+        {
+            "300478": "KINGS HWY/McDONALD AV"
+        },
+        {
+            "308868": "KINGS HWY/W 8 ST"
+        },
+        {
+            "300488": "BAY PKWY/79 ST"
+        },
+        {
+            "300491": "BAY PKWY/86 ST"
+        },
+        {
+            "300493": "BAY PKWY/BATH AV"
+        },
+        {
+            "300497": "CROPSEY AV/24 AV"
+        }
+    ],
+    "B41": [
+        {
+            "303215": "FLATBUSH AV/KINGS PLAZA"
+        },
+        {
+            "300163": "FLATBUSH AV/AVENUE T"
+        },
+        {
+            "303218": "FLATBUSH AV/UTICA AV"
+        },
+        {
+            "303219": "FLATBUSH AV/E 48 ST"
+        },
+        {
+            "306273": "FLATBUSH AV/E 46 ST"
+        },
+        {
+            "303222": "FLATBUSH AV/TROY AV"
+        },
+        {
+            "303223": "FLATBUSH AV/FLATLANDS AV"
+        },
+        {
+            "303224": "FLATBUSH AV/KINGS HWY"
+        },
+        {
+            "303227": "FLATBUSH AV/AVENUE K"
+        },
+        {
+            "303228": "FLATBUSH AV/BROOKLYN AV"
+        },
+        {
+            "303229": "FLATBUSH AV/E 35 ST"
+        },
+        {
+            "303230": "FLATBUSH AV/AVENUE I"
+        },
+        {
+            "303232": "FLATBUSH AV/NOSTRAND AV"
+        },
+        {
+            "303233": "FLATBUSH AV/E 29 ST"
+        },
+        {
+            "303234": "FLATBUSH AV/ROGERS AV"
+        },
+        {
+            "303235": "FLATBUSH AV/FOSTER AV"
+        },
+        {
+            "306324": "FLATBUSH AV/AVENUE D"
+        },
+        {
+            "303237": "FLATBUSH AV/CLARENDON RD"
+        },
+        {
+            "303238": "FLATBUSH AV/CORTELYOU RD"
+        },
+        {
+            "303239": "FLATBUSH AV/TILDEN AV"
+        },
+        {
+            "308348": "FLATBUSH AV/CHURCH AV"
+        },
+        {
+            "303241": "FLATBUSH AV/CATON AV"
+        },
+        {
+            "303242": "FLATBUSH AV/CLARKSON AV"
+        },
+        {
+            "303243": "FLATBUSH AV/HAWTHORNE ST"
+        },
+        {
+            "303244": "FLATBUSH AV/MIDWOOD ST"
+        },
+        {
+            "306325": "FLATBUSH AV/EMPIRE BLVD"
+        },
+        {
+            "303247": "FLATBUSH AV/PROSPECT PARK ZOO"
+        },
+        {
+            "308070": "FLATBUSH AV/GRAND ARMY PLAZA"
+        },
+        {
+            "307853": "FLATBUSH AV/PLAZA ST EAST"
+        },
+        {
+            "303249": "FLATBUSH AV/STERLING PL"
+        },
+        {
+            "303250": "FLATBUSH AV/PARK PL"
+        },
+        {
+            "307210": "FLATBUSH AV/SAINT MARKS AV"
+        },
+        {
+            "303253": "FLATBUSH AV/BERGEN ST"
+        },
+        {
+            "308641": "FLATBUSH AV/PACIFIC ST"
+        },
+        {
+            "303254": "FLATBUSH AV/ATLANTIC AV"
+        },
+        {
+            "901731": "LIVINGSTON ST/NEVINS ST"
+        },
+        {
+            "901732": "LIVINGSTON ST/HOYT ST"
+        },
+        {
+            "303259": "LIVINGSTON ST/SMITH ST"
+        },
+        {
+            "302434": "COURT ST/MONTAGUE ST"
+        },
+        {
+            "901007": "CADMAN PLAZA WEST/JOHNSON ST"
+        }
+    ],
+    "B44": [
+        {
+            "307020": "EMMONS AV/NOSTRAND AV"
+        },
+        {
+            "300347": "NOSTRAND AV/SHORE PKWY"
+        },
+        {
+            "303434": "NOSTRAND AV/VOORHIES AV"
+        },
+        {
+            "302823": "NOSTRAND AV/AVENUE Z"
+        },
+        {
+            "308122": "NOSTRAND AV/AVENUE Y"
+        },
+        {
+            "302825": "NOSTRAND AV/AVENUE X"
+        },
+        {
+            "302826": "NOSTRAND AV/AVENUE W"
+        },
+        {
+            "302827": "NOSTRAND AV/AVENUE V"
+        },
+        {
+            "303440": "NOSTRAND AV/AVENUE U"
+        },
+        {
+            "303366": "NOSTRAND AV/AVENUE T"
+        },
+        {
+            "303367": "NOSTRAND AV/AVENUE S"
+        },
+        {
+            "303368": "NOSTRAND AV/AVENUE R"
+        },
+        {
+            "303369": "NOSTRAND AV/GERRITSEN AV"
+        },
+        {
+            "303370": "NOSTRAND AV/QUENTIN RD"
+        },
+        {
+            "303371": "NOSTRAND AV/AVENUE P"
+        },
+        {
+            "303372": "NOSTRAND AV/MARINE PKWY"
+        },
+        {
+            "307127": "NOSTRAND AV/KINGS HWY"
+        },
+        {
+            "303374": "NOSTRAND AV/AVENUE N"
+        },
+        {
+            "303375": "NOSTRAND AV/AVENUE M"
+        },
+        {
+            "303376": "NOSTRAND AV/AVENUE L"
+        },
+        {
+            "303377": "NOSTRAND AV/AVENUE K"
+        },
+        {
+            "303378": "NOSTRAND AV/AVENUE J"
+        },
+        {
+            "303379": "NOSTRAND AV/AVENUE I"
+        },
+        {
+            "303380": "NOSTRAND AV/FLATBUSH AV"
+        },
+        {
+            "303381": "NOSTRAND AV/GLENWOOD RD"
+        },
+        {
+            "303382": "FARRAGUT RD/NOSTRAND AV"
+        },
+        {
+            "303383": "NEW YORK AV/FARRAGUT RD"
+        },
+        {
+            "303384": "NEW YORK AV/FOSTER AV"
+        },
+        {
+            "303385": "NEW YORK AV/AVENUE D"
+        },
+        {
+            "303386": "NEW YORK AV/CLARENDON RD"
+        },
+        {
+            "303387": "NEW YORK AV/BEVERLY RD"
+        },
+        {
+            "303388": "NEW YORK AV/TILDEN AV"
+        },
+        {
+            "303389": "NEW YORK AV/SNYDER AV"
+        },
+        {
+            "303390": "NEW YORK AV/CHURCH AV"
+        },
+        {
+            "303391": "NEW YORK AV/LINDEN BLVD"
+        },
+        {
+            "303392": "NEW YORK AV/LENOX RD"
+        },
+        {
+            "303393": "NEW YORK AV/CLARKSON AV"
+        },
+        {
+            "303394": "NEW YORK AV/WINTHROP ST"
+        },
+        {
+            "303395": "NEW YORK AV/FENIMORE ST"
+        },
+        {
+            "303396": "NEW YORK AV/MIDWOOD ST"
+        },
+        {
+            "306624": "NEW YORK AV/EAST NEW YORK AV"
+        },
+        {
+            "303398": "NEW YORK AV/EMPIRE BL"
+        },
+        {
+            "303399": "NEW YORK AV/MONTGOMERY ST"
+        },
+        {
+            "303400": "NEW YORK AV/CARROLL ST"
+        },
+        {
+            "303401": "NEW YORK AV/UNION ST"
+        },
+        {
+            "303402": "NEW YORK AV/EASTERN PKWY"
+        },
+        {
+            "303403": "NEW YORK AV/SAINT JOHNS PL"
+        },
+        {
+            "303404": "NEW YORK AV/STERLING PL"
+        },
+        {
+            "303405": "NEW YORK AV/PROSPECT PL"
+        },
+        {
+            "303406": "NEW YORK AV/BERGEN ST"
+        },
+        {
+            "303407": "NEW YORK AV/PACIFIC ST"
+        },
+        {
+            "303408": "NEW YORK AV/ATLANTIC AV"
+        },
+        {
+            "302414": "FULTON ST/NEW YORK AV"
+        },
+        {
+            "302415": "FULTON ST/NOSTRAND AV"
+        },
+        {
+            "303411": "BEDFORD AV/FULTON ST"
+        },
+        {
+            "303412": "BEDFORD AV/HANCOCK ST"
+        },
+        {
+            "303413": "BEDFORD AV/PUTNAM AV"
+        },
+        {
+            "801163": "BEDFORD AV/GATES AV"
+        },
+        {
+            "303416": "BEDFORD AV/GREENE AV"
+        },
+        {
+            "303417": "BEDFORD AV/LAFAYETTE AV"
+        },
+        {
+            "303418": "BEDFORD AV/DE KALB AV"
+        },
+        {
+            "303419": "BEDFORD AV/WILLOUGHBY AV"
+        },
+        {
+            "303420": "BEDFORD AV/MYRTLE AV"
+        },
+        {
+            "303421": "BEDFORD AV/PARK AV"
+        },
+        {
+            "303422": "BEDFORD AV/FLUSHING AV"
+        },
+        {
+            "303425": "BEDFORD AV/HEWES ST"
+        },
+        {
+            "303427": "BEDFORD AV/TAYLOR ST"
+        },
+        {
+            "901010": "WILLIAMSBURG BRIDGE PLAZA/LANE 4"
+        }
+    ],
+    "B46": [
+        {
+            "307920": "KINGS PLAZA/AVENUE U"
+        },
+        {
+            "300163": "FLATBUSH AV/AVENUE T"
+        },
+        {
+            "303590": "UTICA AV/FILLMORE AV"
+        },
+        {
+            "303591": "UTICA AV/AVENUE O"
+        },
+        {
+            "303592": "UTICA AV/AVENUE N"
+        },
+        {
+            "303593": "UTICA AV/AVENUE M"
+        },
+        {
+            "303594": "UTICA AV/AVENUE L"
+        },
+        {
+            "303595": "UTICA AV/AVENUE K"
+        },
+        {
+            "303596": "UTICA AV/AVENUE J"
+        },
+        {
+            "303597": "UTICA AV/AVENUE I"
+        },
+        {
+            "801094": "UTICA AV/AVENUE H"
+        },
+        {
+            "303599": "UTICA AV/KINGS HWY"
+        },
+        {
+            "303601": "UTICA AV/FARRAGUT RD"
+        },
+        {
+            "303602": "UTICA AV/FOSTER AV"
+        },
+        {
+            "303603": "UTICA AV/AVENUE D"
+        },
+        {
+            "303604": "UTICA AV/CLARENDON RD"
+        },
+        {
+            "303605": "UTICA AV/BEVERLY RD"
+        },
+        {
+            "303606": "UTICA AV/TILDEN AV"
+        },
+        {
+            "303607": "UTICA AV/SNYDER AV"
+        },
+        {
+            "308804": "UTICA AV/CHURCH AV"
+        },
+        {
+            "303609": "UTICA AV/LINDEN BLVD"
+        },
+        {
+            "303610": "UTICA AV/LENOX RD"
+        },
+        {
+            "303612": "UTICA AV/WINTHROP ST"
+        },
+        {
+            "303613": "UTICA AV/RUTLAND RD"
+        },
+        {
+            "303614": "UTICA AV/MAPLE ST"
+        },
+        {
+            "307083": "UTICA AV/EMPIRE BLVD"
+        },
+        {
+            "307086": "UTICA AV/CARROLL ST"
+        },
+        {
+            "307668": "UTICA AV/EASTERN PKWY"
+        },
+        {
+            "307094": "UTICA AV/SAINT JOHNS PL"
+        },
+        {
+            "307093": "UTICA AV/PROSPECT PL"
+        },
+        {
+            "307090": "UTICA AV/BERGEN ST"
+        },
+        {
+            "308066": "UTICA AV/ATLANTIC AV"
+        },
+        {
+            "307092": "UTICA AV/FULTON ST"
+        },
+        {
+            "303624": "MALCOLM X BLVD/BAINBRIDGE ST"
+        },
+        {
+            "303625": "MALCOLM X BLVD/HALSEY ST"
+        },
+        {
+            "303626": "MALCOLM X BLVD/PUTNAM AV"
+        },
+        {
+            "303627": "MALCOLM X BLVD/GATES AV"
+        },
+        {
+            "303628": "MALCOLM X BLVD/GREENE AV"
+        },
+        {
+            "303629": "MALCOLM X BLVD/LAFAYETTE AV"
+        },
+        {
+            "303630": "MALCOLM X BLVD/DE KALB AV"
+        },
+        {
+            "303153": "BROADWAY/LAWTON ST"
+        },
+        {
+            "303154": "BROADWAY/WILLOUGHBY AV"
+        },
+        {
+            "307637": "BROADWAY/JEFFERSON ST"
+        },
+        {
+            "303156": "BROADWAY/ARION PL"
+        },
+        {
+            "301092": "BROADWAY/PARK ST"
+        },
+        {
+            "303158": "BROADWAY/FLUSHING AV"
+        },
+        {
+            "303159": "BROADWAY/COOK ST"
+        },
+        {
+            "303160": "BROADWAY/LEONARD ST"
+        },
+        {
+            "303161": "BROADWAY/LORIMER ST"
+        },
+        {
+            "303162": "BROADWAY/BOERUM ST"
+        },
+        {
+            "303163": "BROADWAY/MONTROSE AV"
+        },
+        {
+            "303164": "BROADWAY/HOOPER ST"
+        },
+        {
+            "302310": "BROADWAY/MARCY AV"
+        },
+        {
+            "901086": "WILLIAMSBURG BRIDGE PLAZA/LANE 4"
+        }
+    ],
+    "B49": [
+        {
+            "308159": "ORIENTAL BLVD/MACKENZIE ST"
+        },
+        {
+            "300002": "ORIENTAL BLVD/JAFFRAY ST"
+        },
+        {
+            "300003": "ORIENTAL BLVD/HASTINGS ST"
+        },
+        {
+            "300004": "ORIENTAL BLVD/FALMOUTH ST"
+        },
+        {
+            "300006": "ORIENTAL BLVD/DOVER ST"
+        },
+        {
+            "300007": "ORIENTAL BLVD/BEAUMONT ST"
+        },
+        {
+            "300008": "ORIENTAL BLVD/WEST END AV"
+        },
+        {
+            "303901": "WEST END AV/HAMPTON AV"
+        },
+        {
+            "303902": "WEST END AV/SHORE BLVD"
+        },
+        {
+            "303903": "SHORE BLVD/EMMONS AV"
+        },
+        {
+            "300332": "SHEEPSHEAD BAY RD/EMMONS AV"
+        },
+        {
+            "308281": "SHORE PKWY/SHEEPSHEAD BAY RD"
+        },
+        {
+            "300334": "VOORHIES AV/E 14 ST"
+        },
+        {
+            "300335": "E 14 ST/SHEEPSHEAD BAY RD"
+        },
+        {
+            "308282": "AVENUE Z/E 15 ST"
+        },
+        {
+            "300338": "AVENUE Z/E 19 ST"
+        },
+        {
+            "303911": "OCEAN AV/AVENUE Z"
+        },
+        {
+            "303912": "OCEAN AV/AVENUE Y"
+        },
+        {
+            "303913": "OCEAN AV/AVENUE X"
+        },
+        {
+            "303914": "OCEAN AV/AVENUE W"
+        },
+        {
+            "303915": "OCEAN AV/AVENUE V"
+        },
+        {
+            "303916": "OCEAN AV/AVENUE U"
+        },
+        {
+            "303917": "OCEAN AV/AVENUE T"
+        },
+        {
+            "303918": "OCEAN AV/AVENUE S"
+        },
+        {
+            "303919": "OCEAN AV/AVENUE R"
+        },
+        {
+            "303920": "OCEAN AV/QUENTIN RD"
+        },
+        {
+            "303921": "OCEAN AV/KINGS HWY"
+        },
+        {
+            "303922": "OCEAN AV/AVENUE O"
+        },
+        {
+            "303923": "OCEAN AV/AVENUE N"
+        },
+        {
+            "300957": "OCEAN AV/AVENUE M"
+        },
+        {
+            "307520": "OCEAN AV/AVENUE L"
+        },
+        {
+            "303926": "OCEAN AV/AVENUE K"
+        },
+        {
+            "303927": "OCEAN AV/AVENUE J"
+        },
+        {
+            "303928": "OCEAN AV/AVENUE I"
+        },
+        {
+            "303929": "OCEAN AV/AVENUE H"
+        },
+        {
+            "303930": "OCEAN AV/GLENWOOD RD"
+        },
+        {
+            "303931": "OCEAN AV/FARRAGUT RD"
+        },
+        {
+            "300827": "FOSTER AV/OCEAN AV"
+        },
+        {
+            "300828": "FOSTER AV/E 22 ST"
+        },
+        {
+            "300830": "FOSTER AV/FLATBUSH AV"
+        },
+        {
+            "300831": "ROGERS AV/FOSTER AV"
+        },
+        {
+            "303937": "ROGERS AV/AVENUE D"
+        },
+        {
+            "303938": "ROGERS AV/CLARENDON RD"
+        },
+        {
+            "303939": "ROGERS AV/BEVERLEY RD"
+        },
+        {
+            "303940": "ROGERS AV/TILDEN AV"
+        },
+        {
+            "308565": "ROGERS AV/ALBERMARLE RD"
+        },
+        {
+            "303942": "ROGERS AV/CHURCH AV"
+        },
+        {
+            "303943": "ROGERS AV/LINDEN BLVD"
+        },
+        {
+            "303944": "ROGERS AV/LENOX RD"
+        },
+        {
+            "303945": "ROGERS AV/CLARKSON AV"
+        },
+        {
+            "303946": "ROGERS AV/WINTHROP ST"
+        },
+        {
+            "303947": "ROGERS AV/FENIMORE ST"
+        },
+        {
+            "303948": "ROGERS AV/MIDWOOD ST"
+        },
+        {
+            "303949": "ROGERS AV/LINCOLN RD"
+        },
+        {
+            "308695": "ROGERS AV/STERLING ST"
+        },
+        {
+            "303951": "ROGERS AV/MONTGOMERY ST"
+        },
+        {
+            "303953": "ROGERS AV/CARROLL ST"
+        },
+        {
+            "303954": "ROGERS AV/PRESIDENT ST"
+        },
+        {
+            "303955": "ROGERS AV/EASTERN PKWY"
+        },
+        {
+            "303956": "ROGERS AV/SAINT JOHNS PL"
+        },
+        {
+            "303957": "ROGERS AV/PARK PL"
+        },
+        {
+            "303958": "ROGERS AV/ST MARKS AV"
+        },
+        {
+            "303959": "BEDFORD AV/DEAN ST"
+        },
+        {
+            "303960": "BEDFORD AV/ATLANTIC AV"
+        },
+        {
+            "302416": "FULTON ST/BEDFORD AV"
+        },
+        {
+            "901087": "FRANKLIN AV/LEFFERTS PL"
+        }
+    ],
+    "B31": [
+        {
+            "300183": "QUENTIN RD/E 16 ST"
+        },
+        {
+            "300138": "E 16 ST/AVENUE R"
+        },
+        {
+            "300139": "AVENUE R/E 18 ST"
+        },
+        {
+            "300140": "AVENUE R/OCEAN AV"
+        },
+        {
+            "307383": "AVENUE R/E 23 ST"
+        },
+        {
+            "300143": "AVENUE R/BEDFORD AV"
+        },
+        {
+            "307384": "AVENUE R/E 27 ST"
+        },
+        {
+            "300146": "AVENUE R/NOSTRAND AV"
+        },
+        {
+            "300147": "AVENUE R/GERRITSEN AV"
+        },
+        {
+            "306862": "GERRITSEN AV/BATCHELDER ST"
+        },
+        {
+            "308198": "GERRITSEN AV/FORD ST"
+        },
+        {
+            "306863": "GERRITSEN AV/COYLE ST"
+        },
+        {
+            "307021": "GERRITSEN AV/AVENUE U"
+        },
+        {
+            "302585": "GERRITSEN AV/AV V"
+        },
+        {
+            "302586": "GERRITSEN AV/WHITNEY AV"
+        },
+        {
+            "302588": "GERRITSEN AV/BIJOU AV"
+        },
+        {
+            "302589": "GERRITSEN AV/CHANNEL AV"
+        },
+        {
+            "302591": "GERRITSEN AV/EVERETT AV"
+        },
+        {
+            "302592": "GERRITSEN AV/GOTHAM AV"
+        },
+        {
+            "302593": "GERRITSEN AV/BARTLETT PL"
+        },
+        {
+            "302594": "GERRITSEN AV/CYRUS AV"
+        },
+        {
+            "302595": "GERRITSEN AV/SEBA AV"
+        },
+        {
+            "302596": "GERRITSEN AV/LOIS AV"
+        },
+        {
+            "302597": "GERRITSEN AV/GERRITSEN BEACH"
+        }
+    ],
+    "B2": [
+        {
+            "307441": "FLATBUSH AV/AVENUE U"
+        },
+        {
+            "300163": "FLATBUSH AV/AVENUE T"
+        },
+        {
+            "300164": "AVENUE S/FLATBUSH AV"
+        },
+        {
+            "300165": "AVENUE S/KIMBALL ST"
+        },
+        {
+            "300166": "AVENUE S/E 38 ST"
+        },
+        {
+            "308459": "E 36 ST/AVENUE S"
+        },
+        {
+            "300168": "E 36 ST/FILLMORE AV"
+        },
+        {
+            "300169": "E 36 ST/AVENUE R"
+        },
+        {
+            "300170": "AVENUE R/E 34 ST"
+        },
+        {
+            "300171": "AVENUE R/E 32 ST"
+        },
+        {
+            "300172": "AVENUE R/MARINE PKWY"
+        },
+        {
+            "300173": "AVENUE R/BURNETT ST"
+        },
+        {
+            "300174": "AVENUE R/GERRITSEN AV"
+        },
+        {
+            "300175": "AVENUE R/NOSTRAND AV"
+        },
+        {
+            "307385": "AVENUE R/E 28 ST"
+        },
+        {
+            "300178": "AVENUE R/BEDFORD AV"
+        },
+        {
+            "307386": "AVENUE R/E 22 ST"
+        },
+        {
+            "300181": "AVENUE R/OCEAN AV"
+        },
+        {
+            "300182": "QUENTIN RD/E 19 ST"
+        },
+        {
+            "901267": "QUENTIN RD/E 16 ST"
+        }
+    ],
+    "SBS46": [
+        {
+            "307920": "KINGS PLAZA/AVENUE U"
+        },
+        {
+            "303592": "UTICA AV/AVENUE N"
+        },
+        {
+            "303595": "UTICA AV/AVENUE K"
+        },
+        {
+            "801094": "UTICA AV/AVENUE H"
+        },
+        {
+            "303603": "UTICA AV/AVENUE D"
+        },
+        {
+            "303608": "UTICA AV/CHURCH AV"
+        },
+        {
+            "303612": "UTICA AV/WINTHROP ST"
+        },
+        {
+            "307083": "UTICA AV/EMPIRE BLVD"
+        },
+        {
+            "307668": "UTICA AV/EASTERN PKWY"
+        },
+        {
+            "307092": "UTICA AV/FULTON ST"
+        },
+        {
+            "303625": "MALCOLM X BLVD/HALSEY ST"
+        },
+        {
+            "303627": "MALCOLM X BLVD/GATES AV"
+        },
+        {
+            "303630": "MALCOLM X BLVD/DE KALB AV"
+        }
+    ],
+    "SB44": [
+        {
+            "300351": "KNAPP ST/SHORE PKWY"
+        },
+        {
+            "307020": "EMMONS AV/NOSTRAND AV"
+        },
+        {
+            "302825": "NOSTRAND AV/AVENUE X"
+        },
+        {
+            "303440": "NOSTRAND AV/AVENUE U"
+        },
+        {
+            "308857": "NOSTRAND AV/AVENUE R"
+        },
+        {
+            "307127": "NOSTRAND AV/KINGS HWY"
+        },
+        {
+            "303376": "NOSTRAND AV/AVENUE L"
+        },
+        {
+            "901278": "NOSTRAND AV/AVENUE H"
+        },
+        {
+            "303937": "ROGERS AV/AVENUE D"
+        },
+        {
+            "303942": "ROGERS AV/CHURCH AV"
+        },
+        {
+            "303945": "ROGERS AV/CLARKSON AV"
+        },
+        {
+            "303950": "ROGERS AV/EMPIRE BLVD"
+        },
+        {
+            "901280": "ROGERS AV/SAINT JOHNS PL"
+        },
+        {
+            "303411": "BEDFORD AV/FULTON ST"
+        },
+        {
+            "801163": "BEDFORD AV/GATES AV"
+        },
+        {
+            "303417": "BEDFORD AV/LAFAYETTE AV"
+        },
+        {
+            "303422": "BEDFORD AV/FLUSHING AV"
+        },
+        {
+            "303425": "BEDFORD AV/HEWES ST"
+        },
+        {
+            "303427": "BEDFORD AV/TAYLOR ST"
+        },
+        {
+            "901010": "WILLIAMSBURG BRIDGE PLAZA/LANE 4"
+        }
+    ],
+    "Q54": [
+        {
+            "504259": "METROPOLITAN AV/FRESH POND RD"
+        },
+        {
+            "504448": "METROPOLITAN AV/ADMIRAL AV"
+        },
+        {
+            "504260": "METROPOLITAN AV/65 ST"
+        },
+        {
+            "503725": "METROPOLITAN AV/RENTAR PLAZA"
+        },
+        {
+            "504261": "METROPOLITAN AV/CHRIST THE KING HS"
+        },
+        {
+            "504262": "METROPOLITAN AV/69 ST"
+        },
+        {
+            "504263": "METROPOLITAN AV/71 ST"
+        },
+        {
+            "504264": "METROPOLITAN AV/PLEASANT VIEW ST"
+        },
+        {
+            "504265": "METROPOLITAN AV/73 PL"
+        },
+        {
+            "504266": "METROPOLITAN AV/75 ST"
+        },
+        {
+            "504267": "METROPOLITAN AV/78 ST"
+        },
+        {
+            "504268": "METROPOLITAN AV/79 ST"
+        },
+        {
+            "551070": "80 ST/METROPOLITAN AV"
+        },
+        {
+            "551110": "80 ST/68 RD"
+        },
+        {
+            "505203": "COOPER AV/ATLAS PARK MALL"
+        },
+        {
+            "505204": "COOPER AV/84 ST"
+        },
+        {
+            "504271": "METROPOLITAN AV/COOPER AV"
+        },
+        {
+            "505069": "METROPOLITAN AV/AUBREY AV"
+        },
+        {
+            "504273": "METROPOLITAN AV/WOODHAVEN BLVD"
+        },
+        {
+            "504274": "METROPOLITAN AV/SELFRIDGE ST"
+        },
+        {
+            "504275": "METROPOLITAN AV/69 RD"
+        },
+        {
+            "504276": "METROPOLITAN AV/70 RD"
+        },
+        {
+            "504277": "METROPOLITAN AV/71 AV"
+        },
+        {
+            "504278": "METROPOLITAN AV/72 AV"
+        },
+        {
+            "504279": "METROPOLITAN AV/72 DR"
+        },
+        {
+            "504280": "METROPOLITAN AV/UNION TPKE"
+        },
+        {
+            "503882": "METROPOLITAN AV/FOREST PARK DR"
+        },
+        {
+            "504281": "METROPOLITAN AV/PARK LN SOUTH"
+        },
+        {
+            "504282": "METROPOLITAN AV/118 ST"
+        },
+        {
+            "504283": "METROPOLITAN AV/LEFFERTS BLVD"
+        },
+        {
+            "504284": "METROPOLITAN AV/BREVOORT ST"
+        },
+        {
+            "504285": "METROPOLITAN AV/124 ST"
+        },
+        {
+            "504518": "METROPOLITAN AV/125 ST"
+        },
+        {
+            "504286": "METROPOLITAN AV/HILLSIDE AV"
+        },
+        {
+            "504288": "METROPOLITAN AV/132 ST"
+        },
+        {
+            "503591": "132 ST/JAMAICA AV"
+        },
+        {
+            "504289": "JAMAICA AV/134 ST"
+        },
+        {
+            "503402": "JAMAICA AV/VAN WYCK EXPWY"
+        },
+        {
+            "503825": "JAMAICA AV/138 ST"
+        },
+        {
+            "503404": "JAMAICA AV/139 ST"
+        },
+        {
+            "504196": "JAMAICA AV/144 PL"
+        },
+        {
+            "503727": "JAMAICA AV/147 PL"
+        },
+        {
+            "504984": "JAMAICA AV/150 ST"
+        },
+        {
+            "503200": "JAMAICA AV/PARSONS BLVD"
+        },
+        {
+            "553036": "JAMAICA AV/160 ST"
+        },
+        {
+            "503938": "JAMAICA AV/GUY R BREWER BLVD"
+        },
+        {
+            "503614": "JAMAICA AV/165 ST"
+        },
+        {
+            "503283": "JAMAICA AV/168 ST"
+        },
+        {
+            "501422": "170 ST/JAMAICA AV"
+        }
+    ],
+    "B54": [
+        {
+            "505218": "PALMETTO ST/SAINT NICHOLAS AV"
+        },
+        {
+            "308426": "MYRTLE AV/GATES AV"
+        },
+        {
+            "304419": "MYRTLE AV/IRVING AV"
+        },
+        {
+            "304420": "MYRTLE AV/KNICKERBOCKER AV"
+        },
+        {
+            "307851": "MYRTLE AV/HARMAN ST"
+        },
+        {
+            "304422": "MYRTLE AV/WILSON AV"
+        },
+        {
+            "304423": "MYRTLE AV/DE KALB AV"
+        },
+        {
+            "304424": "MYRTLE AV/HART ST"
+        },
+        {
+            "307151": "MYRTLE AV/SUYDAM ST"
+        },
+        {
+            "304426": "MYRTLE AV/CHARLES PL"
+        },
+        {
+            "304427": "MYRTLE AV/BUSHWICK AV"
+        },
+        {
+            "307320": "MYRTLE AV/BROADWAY"
+        },
+        {
+            "304429": "MYRTLE AV/LEWIS AV"
+        },
+        {
+            "307124": "MYRTLE AV/MARCUS GARVEY BLVD"
+        },
+        {
+            "304431": "MYRTLE AV/THROOP AV"
+        },
+        {
+            "304432": "MYRTLE AV/TOMPKINS AV"
+        },
+        {
+            "304433": "MYRTLE AV/MARCY AV"
+        },
+        {
+            "304434": "MYRTLE AV/NOSTRAND AV"
+        },
+        {
+            "304435": "MYRTLE AV/WALWORTH ST"
+        },
+        {
+            "304436": "MYRTLE AV/BEDFORD AV"
+        },
+        {
+            "304437": "MYRTLE AV/FRANKLIN AV"
+        },
+        {
+            "308624": "MYRTLE AV/CLASSON AV"
+        },
+        {
+            "304440": "MYRTLE AV/GRAND AV"
+        },
+        {
+            "304441": "MYRTLE AV/WASHINGTON AV"
+        },
+        {
+            "304442": "MYRTLE AV/CLINTON AV"
+        },
+        {
+            "307152": "MYRTLE AV/VANDERBILT AV"
+        },
+        {
+            "306934": "MYRTLE AV/CARLTON AV"
+        },
+        {
+            "306935": "MYRTLE AV/NORTH PORTLAND AV"
+        },
+        {
+            "306936": "MYRTLE AV/SAINT EDWARDS ST"
+        },
+        {
+            "306937": "MYRTLE AV/NAVY ST"
+        },
+        {
+            "308535": "MYRTLE AV/PRINCE ST"
+        },
+        {
+            "307935": "METROTECH UNDERPASS/LAWRENCE ST"
+        },
+        {
+            "801134": "JAY ST/MYRTLE PLAZA"
+        }
+    ],
+    "Q55": [
+        {
+            "306442": "PALMETTO ST/WYCKOFF AV"
+        },
+        {
+            "504330": "MYRTLE AV/MADISON ST"
+        },
+        {
+            "505077": "MYRTLE AV/CORNELIA ST"
+        },
+        {
+            "505078": "MYRTLE AV/SENECA AV"
+        },
+        {
+            "505079": "MYRTLE AV/CENTRE ST"
+        },
+        {
+            "505080": "MYRTLE AV/FOREST AV"
+        },
+        {
+            "505081": "MYRTLE AV/SUMMERFIELD ST"
+        },
+        {
+            "504332": "MYRTLE AV/62 ST"
+        },
+        {
+            "504333": "MYRTLE AV/CYPRESS HILLS ST"
+        },
+        {
+            "504497": "MYRTLE AV/65 PL"
+        },
+        {
+            "504498": "MYRTLE AV/66 PL"
+        },
+        {
+            "504499": "MYRTLE AV/67 PL"
+        },
+        {
+            "504500": "MYRTLE AV/69 ST"
+        },
+        {
+            "504334": "MYRTLE AV/70 ST"
+        },
+        {
+            "504502": "MYRTLE AV/72 ST"
+        },
+        {
+            "504335": "MYRTLE AV/73 PL"
+        },
+        {
+            "504336": "MYRTLE AV/76 ST"
+        },
+        {
+            "504337": "MYRTLE AV/79 PL"
+        },
+        {
+            "504338": "MYRTLE AV/81 ST"
+        },
+        {
+            "504340": "MYRTLE AV/83 ST"
+        },
+        {
+            "504341": "MYRTLE AV/85 ST"
+        },
+        {
+            "504339": "MYRTLE AV/81 AV"
+        },
+        {
+            "504342": "MYRTLE AV/88 ST"
+        },
+        {
+            "504343": "MYRTLE AV/88 LN"
+        },
+        {
+            "504344": "MYRTLE AV/WOODHAVEN BLVD NORTH"
+        },
+        {
+            "504345": "MYRTLE AV/WOODHAVEN BLVD"
+        },
+        {
+            "504346": "MYRTLE AV/FREEDOM DR"
+        },
+        {
+            "504347": "MYRTLE AV/108 ST"
+        },
+        {
+            "504348": "MYRTLE AV/111 ST"
+        },
+        {
+            "504349": "MYRTLE AV/114 ST"
+        },
+        {
+            "504350": "MYRTLE AV/115 ST"
+        },
+        {
+            "504351": "117 ST/JAMAICA AV"
+        },
+        {
+            "804055": "MYRTLE AV/HILLSIDE AV"
+        }
+    ],
+    "B52": [
+        {
+            "504965": "PALMETTO ST/SAINT NICHOLAS AV"
+        },
+        {
+            "504119": "GATES AV/WYCKOFF AV"
+        },
+        {
+            "304196": "GATES AV/IRVING AV"
+        },
+        {
+            "304197": "GATES AV/KNICKERBOCKER AV"
+        },
+        {
+            "304198": "GATES AV/WILSON AV"
+        },
+        {
+            "304199": "GATES AV/CENTRAL AV"
+        },
+        {
+            "304200": "GATES AV/EVERGREEN AV"
+        },
+        {
+            "304201": "GATES AV/BUSHWICK AV"
+        },
+        {
+            "308046": "GATES AV/BROADWAY"
+        },
+        {
+            "304203": "GATES AV/RALPH AV"
+        },
+        {
+            "304204": "GATES AV/PATCHEN AV"
+        },
+        {
+            "304205": "GATES AV/MALCOLM X BLVD"
+        },
+        {
+            "304206": "GATES AV/STUYVESANT AV"
+        },
+        {
+            "304207": "GATES AV/LEWIS AV"
+        },
+        {
+            "306530": "GATES AV/MARCUS GARVEY BLVD"
+        },
+        {
+            "304209": "GATES AV/THROOP AV"
+        },
+        {
+            "304210": "GATES AV/TOMPKINS AV"
+        },
+        {
+            "304211": "GATES AV/MARCY AV"
+        },
+        {
+            "304212": "GATES AV/NOSTRAND AV"
+        },
+        {
+            "304213": "GATES AV/BEDFORD AV"
+        },
+        {
+            "304214": "GATES AV/FRANKLIN AV"
+        },
+        {
+            "307948": "GATES AV/CLASSON AV"
+        },
+        {
+            "307572": "GREENE AV/CLASSON AV"
+        },
+        {
+            "307573": "GREENE AV/GRAND AV"
+        },
+        {
+            "307596": "GREENE AV/WASHINGTON AV"
+        },
+        {
+            "307575": "GREENE AV/VANDERBILT AV"
+        },
+        {
+            "307576": "GREENE AV/ADELPHI ST"
+        },
+        {
+            "307577": "GREENE AV/CUMBERLAND ST"
+        },
+        {
+            "302427": "FULTON ST/SOUTH ELLIOT PL"
+        },
+        {
+            "302428": "FULTON ST/FORT GREENE PL"
+        },
+        {
+            "302430": "FULTON ST/HUDSON AV"
+        },
+        {
+            "302431": "FULTON ST/BOND ST"
+        },
+        {
+            "307492": "FULTON ST/DUFFIELD ST"
+        },
+        {
+            "302433": "FULTON ST/JAY ST"
+        },
+        {
+            "302434": "COURT ST/MONTAGUE ST"
+        },
+        {
+            "901463": "CADMAN PLAZA WEST/TILLARY ST"
+        }
+    ],
+    "Q58": [
+        {
+            "308488": "PALMETTO ST/WYCKOFF AV"
+        },
+        {
+            "504155": "CYPRESS AV/PALMETTO ST"
+        },
+        {
+            "504474": "MADISON ST/CYPRESS AV"
+        },
+        {
+            "504475": "MADISON ST/SENECA AV"
+        },
+        {
+            "503450": "MADISON ST/ONDERDONK AV"
+        },
+        {
+            "503451": "MADISON ST/WOODWARD AV"
+        },
+        {
+            "503452": "MADISON ST/FAIRVIEW AV"
+        },
+        {
+            "503453": "FAIRVIEW AV/FOREST AV"
+        },
+        {
+            "503454": "67 AV/60 ST"
+        },
+        {
+            "503455": "67 AV/FRESH POND RD"
+        },
+        {
+            "503456": "FRESH POND RD/PUTNAM AV"
+        },
+        {
+            "503457": "FRESH POND RD/WOODBINE ST"
+        },
+        {
+            "503458": "FRESH POND RD/GATES AV"
+        },
+        {
+            "503459": "FRESH POND RD/GROVE ST"
+        },
+        {
+            "505251": "FRESH POND RD/BLEECKER ST"
+        },
+        {
+            "503461": "FRESH POND RD/ELIOT AV"
+        },
+        {
+            "503462": "FRESH POND RD/60 RD"
+        },
+        {
+            "505108": "FRESH POND RD / 61ST ST"
+        },
+        {
+            "503464": "FRESH POND RD/59 AV"
+        },
+        {
+            "503465": "FRESH POND RD/FLUSHING AV"
+        },
+        {
+            "503466": "FLUSHING AV/64 ST"
+        },
+        {
+            "503468": "GRAND AV/66 ST"
+        },
+        {
+            "503469": "GRAND AV/QUEENS MIDTOWN EXPWY"
+        },
+        {
+            "503470": "GRAND AV/69 PL"
+        },
+        {
+            "503471": "GRAND AV/71 ST"
+        },
+        {
+            "503258": "GRAND AV/73 ST"
+        },
+        {
+            "503472": "GRAND AV/74 ST"
+        },
+        {
+            "503473": "GRAND AV/79 ST"
+        },
+        {
+            "503475": "GRAND AV/84 ST"
+        },
+        {
+            "503476": "GRAND AV/HASPEL ST"
+        },
+        {
+            "503477": "GRAND AV/VAN HORN ST"
+        },
+        {
+            "502992": "GRAND AV/QUEENS BLVD"
+        },
+        {
+            "503478": "BROADWAY/JUSTICE AV"
+        },
+        {
+            "502994": "BROADWAY/CORONA AV"
+        },
+        {
+            "503479": "CORONA AV/88 ST"
+        },
+        {
+            "503480": "CORONA AV/90 ST"
+        },
+        {
+            "503481": "CORONA AV/91 PL"
+        },
+        {
+            "503689": "CORONA AV/93 ST"
+        },
+        {
+            "503482": "CORONA AV/94 ST"
+        },
+        {
+            "503483": "CORONA AV/JUNCTION BLVD"
+        },
+        {
+            "503484": "CORONA AV/ALSTYNE AV"
+        },
+        {
+            "503485": "CORONA AV/98 PL"
+        },
+        {
+            "503486": "CORONA AV/102 ST"
+        },
+        {
+            "503487": "CORONA AV/104 ST"
+        },
+        {
+            "503488": "CORONA AV/51 AV"
+        },
+        {
+            "503490": "108 ST/MARTENSE AV"
+        },
+        {
+            "503491": "108 ST/WALDRON ST"
+        },
+        {
+            "503492": "108 ST/HORACE HARDING EXPWY NORTH"
+        },
+        {
+            "503444": "COLLEGE POINT BLVD/HORACE HARDING EXPWY"
+        },
+        {
+            "503493": "COLLEGE POINT BLVD/58 RD"
+        },
+        {
+            "503494": "COLLEGE POINT BLVD/57 RD"
+        },
+        {
+            "503956": "COLLEGE POINT BLVD/BOOTH MEMORIAL AV"
+        },
+        {
+            "504020": "COLLEGE POINT BLVD/AVERY AV"
+        },
+        {
+            "503497": "COLLEGE POINT BLVD/MAPLE AV"
+        },
+        {
+            "503499": "41 RD/COLLEGE POINT BLVD"
+        },
+        {
+            "804059": "41 RD/MAIN ST"
+        }
+    ],
+    "B26": [
+        {
+            "304417": "WYCKOFF ST/PALMETTO ST"
+        },
+        {
+            "302489": "WYCKOFF AV/MADISON ST"
+        },
+        {
+            "302490": "WYCKOFF AV/JEFFERSON AV"
+        },
+        {
+            "302491": "WYCKOFF AV/WEIRFIELD ST"
+        },
+        {
+            "302492": "HALSEY ST/IRVING AV"
+        },
+        {
+            "302493": "HALSEY ST/KNICKERBOCKER AV"
+        },
+        {
+            "302494": "HALSEY ST/WILSON AV"
+        },
+        {
+            "302495": "HALSEY ST/CENTRAL AV"
+        },
+        {
+            "302496": "HALSEY ST/EVERGREEN AV"
+        },
+        {
+            "308016": "HALSEY ST/BUSHWICK AV"
+        },
+        {
+            "302498": "HALSEY ST/BROADWAY"
+        },
+        {
+            "302499": "HALSEY ST/SARATOGA AV"
+        },
+        {
+            "302500": "HALSEY ST/HOWARD AV"
+        },
+        {
+            "302501": "HALSEY ST/RALPH AV"
+        },
+        {
+            "302502": "HALSEY ST/PATCHEN AV"
+        },
+        {
+            "302503": "HALSEY ST/MALCOLM X BLVD"
+        },
+        {
+            "302504": "HALSEY ST/STUYVESANT AV"
+        },
+        {
+            "302505": "HALSEY ST/LEWIS AV"
+        },
+        {
+            "307511": "HALSEY ST/MARCUS GARVEY BLVD"
+        },
+        {
+            "302507": "HALSEY ST/THROOP AV"
+        },
+        {
+            "302508": "HALSEY ST/TOMPKINS AV"
+        },
+        {
+            "302509": "HALSEY ST/MARCY AV"
+        },
+        {
+            "307928": "HALSEY ST/NOSTRAND AV"
+        },
+        {
+            "302511": "HALSEY ST/BEDFORD AV"
+        },
+        {
+            "302512": "PUTNAM AV/BEDFORD AV"
+        },
+        {
+            "302513": "PUTNAM AV/FRANKLIN AV"
+        },
+        {
+            "302514": "PUTNAM AV/CLASSON AV"
+        },
+        {
+            "302419": "FULTON ST/GRAND AV"
+        },
+        {
+            "302421": "FULTON ST/WASHINGTON AV"
+        },
+        {
+            "302423": "FULTON ST/VANDERBILT AV"
+        },
+        {
+            "302424": "FULTON ST/ADELPHI ST"
+        },
+        {
+            "302426": "FULTON ST/GREENE AV"
+        },
+        {
+            "302427": "FULTON ST/SOUTH ELLIOT PL"
+        },
+        {
+            "302428": "FULTON ST/FORT GREENE PL"
+        },
+        {
+            "302430": "FULTON ST/HUDSON AV"
+        },
+        {
+            "302431": "FULTON ST/BOND ST"
+        },
+        {
+            "307492": "FULTON ST/DUFFIELD ST"
+        },
+        {
+            "302433": "FULTON ST/JAY ST"
+        },
+        {
+            "302434": "COURT ST/MONTAGUE ST"
+        },
+        {
+            "901463": "CADMAN PLAZA WEST/TILLARY ST"
+        }
+    ],
+    "B13": [
+        {
+            "301879": "WYCKOFF AV/DE KALB AV"
+        },
+        {
+            "301880": "WYCKOFF AV/STANHOPE ST"
+        },
+        {
+            "301881": "WYCKOFF AV/HARMAN ST"
+        },
+        {
+            "301882": "WYCKOFF AV/BLEECKER ST"
+        },
+        {
+            "301883": "WYCKOFF AV/GROVE ST"
+        },
+        {
+            "801118": "GATES AV/WYCKOFF AV"
+        },
+        {
+            "505101": "GATES AV/CYPRESS AV"
+        },
+        {
+            "504120": "GATES AV/SENECA AV"
+        },
+        {
+            "504121": "GATES AV/ONDERDONK AV"
+        },
+        {
+            "504122": "GATES AV/WOODWARD AV"
+        },
+        {
+            "504123": "GATES AV/FAIRVIEW AV"
+        },
+        {
+            "504124": "GRANDVIEW AV/GATES AV"
+        },
+        {
+            "504125": "FOREST AV/WOODBINE ST"
+        },
+        {
+            "504126": "FOREST AV/PUTNAM AV"
+        },
+        {
+            "503454": "67 AV/60 ST"
+        },
+        {
+            "503455": "67 AV/FRESH POND RD"
+        },
+        {
+            "504127": "FRESH POND RD/CATALPA AV"
+        },
+        {
+            "504129": "FRESH POND RD/70 AV"
+        },
+        {
+            "504130": "FRESH POND RD/MYRTLE AV"
+        },
+        {
+            "503639": "61 ST/75 AV"
+        },
+        {
+            "503641": "61 ST/ST FELIX AV"
+        },
+        {
+            "504131": "COOPER AV/64 ST"
+        },
+        {
+            "504132": "COOPER AV/64 LN"
+        },
+        {
+            "504133": "COOPER AV/CYPRESS HILL ST"
+        },
+        {
+            "504136": "CYPRESS HILLS ST/BETH-EL CEMETERY"
+        },
+        {
+            "504137": "CYPRESS HILLS ST/MACHPELAH CEMETERY"
+        },
+        {
+            "504138": "CYPRESS HILLS ST/CYPRESS AV"
+        },
+        {
+            "301492": "CYPRESS HILLS ST/JAMAICA AV"
+        },
+        {
+            "301493": "JAMAICA AV/CRESCENT ST"
+        },
+        {
+            "301494": "JAMAICA AV/HEMLOCK ST"
+        },
+        {
+            "301495": "CRESCENT ST/ETNA ST"
+        },
+        {
+            "301496": "CRESCENT ST/RIDGEWOOD AV"
+        },
+        {
+            "301497": "CRESCENT ST/FULTON ST"
+        },
+        {
+            "308450": "CRESCENT ST/ATLANTIC AV"
+        },
+        {
+            "301499": "CRESCENT ST/WELDON ST"
+        },
+        {
+            "301500": "CRESCENT ST/LIBERTY AV"
+        },
+        {
+            "301501": "EUCLID AV/LIBERTY AV"
+        },
+        {
+            "901687": "EUCLID AV/GLENMORE AV"
+        },
+        {
+            "301503": "EUCLID AV/PITKIN AV"
+        },
+        {
+            "301504": "EUCLID AV/BELMONT AV"
+        },
+        {
+            "301505": "EUCLID AV/SUTTER AV"
+        },
+        {
+            "301506": "EUCLID AV/BLAKE AV"
+        },
+        {
+            "301507": "EUCLID AV/DUMONT AV"
+        },
+        {
+            "306291": "EUCLID AV/LINDEN BLVD"
+        },
+        {
+            "301155": "LINDEN BLVD/EUCLID AV"
+        },
+        {
+            "301156": "LINDEN BLVD/CRESCENT ST"
+        },
+        {
+            "307627": "LINDEN BLVD/AUTUMN AV"
+        },
+        {
+            "307628": "ELDERT LN/LINDEN BLVD"
+        },
+        {
+            "307629": "ELDERT LN/LORING AV"
+        },
+        {
+            "307896": "STANLEY AV/ELDERT LN"
+        },
+        {
+            "307269": "POSTAL FACILITY RD/BROOKLYN MAIL FACILITY"
+        },
+        {
+            "308006": "STANLEY AV/AUTUMN AV"
+        },
+        {
+            "301511": "CRESCENT ST/STANLEY AV"
+        },
+        {
+            "301512": "CRESCENT ST/WORTMAN AV"
+        },
+        {
+            "306292": "COZINE AV/CRESCENT ST"
+        },
+        {
+            "307649": "FOUNTAIN AV/FLATLANDS AV"
+        },
+        {
+            "307181": "FOUNTAIN AV/BROOKLYN DEVELOPMENTAL CENTER"
+        },
+        {
+            "901273": "SEAVIEW AV/ERSKINE ST"
+        },
+        {
+            "901475": "GATEWAY CENTER TERMINAL/GATEWAY DR"
+        }
+    ],
+    "B7": [
+        {
+            "300735": "SARATOGA AV/HALSEY ST"
+        },
+        {
+            "300736": "SARATOGA AV/MACDONOUGH ST"
+        },
+        {
+            "300737": "SARATOGA AV/BAINBRIDGE ST"
+        },
+        {
+            "300738": "SARATOGA AV/MARION ST"
+        },
+        {
+            "300740": "SARATOGA AV/FULTON ST"
+        },
+        {
+            "300741": "SARATOGA AV/ATLANTIC AV"
+        },
+        {
+            "300742": "SARATOGA AV/DEAN ST"
+        },
+        {
+            "300743": "SARATOGA AV/SAINT MARKS AV"
+        },
+        {
+            "801095": "SARATOGA AV/PARK PL"
+        },
+        {
+            "300748": "SARATOGA AV/SUTTER AV"
+        },
+        {
+            "300749": "SARATOGA AV/BLAKE AV"
+        },
+        {
+            "300750": "SARATOGA AV/DUMONT AV"
+        },
+        {
+            "300751": "SARATOGA AV/LIVONIA AV"
+        },
+        {
+            "300753": "RIVERDALE AV/LEGION ST"
+        },
+        {
+            "300754": "LENOX RD/E 98 ST"
+        },
+        {
+            "300755": "LENOX RD/ROCKAWAY PKWY"
+        },
+        {
+            "307221": "E 95 ST/KINGS HWY"
+        },
+        {
+            "300757": "KINGS HWY/E 94 ST"
+        },
+        {
+            "300758": "KINGS HWY/E 92 ST"
+        },
+        {
+            "300759": "KINGS HWY/REMSEN AV"
+        },
+        {
+            "300760": "KINGS HWY/LINDEN BLVD"
+        },
+        {
+            "300761": "KINGS HWY/CHURCH AV"
+        },
+        {
+            "300762": "KINGS HWY/SNYDER AV"
+        },
+        {
+            "300763": "KINGS HWY/TILDEN AV"
+        },
+        {
+            "300764": "KINGS HWY/BEVERLY RD"
+        },
+        {
+            "300765": "KINGS HWY/CLARENDON RD"
+        },
+        {
+            "300766": "KINGS HWY/AVENUE D"
+        },
+        {
+            "300767": "KINGS HWY/FOSTER AV"
+        },
+        {
+            "300768": "KINGS HWY/PRESTON CT"
+        },
+        {
+            "300769": "KINGS HWY/GLENWOOD RD"
+        },
+        {
+            "300770": "KINGS HWY/UTICA AV"
+        },
+        {
+            "300771": "KINGS HWY/AVENUE H"
+        },
+        {
+            "300772": "KINGS HWY/SCHENECTADY AV"
+        },
+        {
+            "300773": "KINGS HWY/AVENUE I"
+        },
+        {
+            "300774": "KINGS HWY/AVENUE J"
+        },
+        {
+            "801194": "KINGS HWY/AVENUE K"
+        },
+        {
+            "300776": "KINGS HWY/E 40 ST"
+        },
+        {
+            "308855": "KINGS HWY/RYDER ST"
+        }
+    ],
+    "B20": [
+        {
+            "504175": "PUTNAM AV/FAIRVIEW AV"
+        },
+        {
+            "503454": "67 AV/60 ST"
+        },
+        {
+            "503455": "67 AV/FRESH POND RD"
+        },
+        {
+            "504127": "FRESH POND RD/CATALPA AV"
+        },
+        {
+            "504129": "FRESH POND RD/70 AV"
+        },
+        {
+            "504130": "FRESH POND RD/MYRTLE AV"
+        },
+        {
+            "504177": "SUMMERFIELD ST/MYRTLE AV"
+        },
+        {
+            "504178": "SUMMERFIELD ST/FOREST AV"
+        },
+        {
+            "504179": "SUMMERFIELD ST/SENECA AV"
+        },
+        {
+            "504180": "SUMMERFIELD ST/CYPRESS AV"
+        },
+        {
+            "504181": "SUMMERFIELD ST/WYCKOFF AV"
+        },
+        {
+            "504182": "COVERT ST/WYCKOFF AV"
+        },
+        {
+            "302013": "IRVING AV/COVERT ST"
+        },
+        {
+            "302014": "SCHAEFER ST/KNICKERBOCKER AV"
+        },
+        {
+            "302015": "SCHAEFER ST/WILSON AV"
+        },
+        {
+            "302016": "SCHAEFER ST/CENTRAL AV"
+        },
+        {
+            "302017": "SCHAEFER ST/EVERGREEN AV"
+        },
+        {
+            "306374": "SCHAEFER ST/BUSHWICK AV"
+        },
+        {
+            "302018": "SCHAEFER ST/BROADWAY"
+        },
+        {
+            "302019": "BROADWAY/ROCKAWAY AV"
+        },
+        {
+            "302020": "BROADWAY/CHAUNCEY ST"
+        },
+        {
+            "307207": "BROADWAY/GRANITE ST"
+        },
+        {
+            "302022": "BROADWAY/HULL ST"
+        },
+        {
+            "307897": "VAN SINDEREN AV/FULTON ST"
+        },
+        {
+            "307305": "FULTON ST/ALABAMA AV"
+        },
+        {
+            "901523": "FULTON ST/SHEFFIELD AV"
+        },
+        {
+            "307925": "PENNSYLVANIA AV/ATLANTIC AV"
+        },
+        {
+            "302030": "PENNSYLVANIA AV/PITKIN AV"
+        },
+        {
+            "302031": "PENNSYLVANIA AV/BELMONT AV"
+        },
+        {
+            "302032": "PENNSYLVANIA AV/SUTTER AV"
+        },
+        {
+            "302033": "PENNSYLVANIA AV/BLAKE AV"
+        },
+        {
+            "302034": "PENNSYLVANIA AV/DUMONT AV"
+        },
+        {
+            "302035": "PENNSYLVANIA AV/LIVONIA AV"
+        },
+        {
+            "302036": "PENNSYLVANIA AV/RIVERDALE AV"
+        },
+        {
+            "302037": "PENNSYLVANIA AV/NEW LOTS AV"
+        },
+        {
+            "302038": "PENNSYLVANIA AV/HEGEMAN AV"
+        },
+        {
+            "302039": "PENNSYLVANIA AV/LINDEN BLVD"
+        },
+        {
+            "302040": "PENNSYLVANIA AV/STANLEY AV"
+        },
+        {
+            "300584": "WORTMAN AV/PENNSYLVANIA AV"
+        },
+        {
+            "300585": "WORTMAN AV/VERMONT ST"
+        },
+        {
+            "307119": "WORTMAN AV/VAN SICLEN AV"
+        },
+        {
+            "300587": "WORTMAN AV/SCHENCK AV"
+        },
+        {
+            "300588": "WORTMAN AV/JEROME ST"
+        },
+        {
+            "306881": "ASHFORD ST/WORTMAN AV"
+        },
+        {
+            "307600": "ASHFORD ST/STANLEY AV"
+        },
+        {
+            "306855": "ASHFORD ST/LINDEN BLVD"
+        },
+        {
+            "302049": "LINDEN BLVD/ESSEX ST"
+        },
+        {
+            "302050": "LINDEN BLVD/ATKINS AV"
+        },
+        {
+            "302051": "LINDEN BLVD/LOGAN ST"
+        },
+        {
+            "301155": "LINDEN BLVD/EUCLID AV"
+        },
+        {
+            "301156": "LINDEN BLVD/CRESCENT ST"
+        },
+        {
+            "307627": "LINDEN BLVD/AUTUMN AV"
+        },
+        {
+            "307628": "ELDERT LN/LINDEN BLVD"
+        },
+        {
+            "307629": "ELDERT LN/LORING AV"
+        },
+        {
+            "307896": "STANLEY AV/ELDERT LN"
+        },
+        {
+            "901067": "POSTAL FACILITY RD/BROOKLYN MAIL FACILITY"
+        }
+    ],
+    "B62": [
+        {
+            "504413": "JACKSON AV/QUEENS PLAZA SOUTH"
+        },
+        {
+            "504526": "JACKSON AV/43 AV"
+        },
+        {
+            "504519": "JACKSON AV/45 AV"
+        },
+        {
+            "505290": "JACKSON AV/23 ST"
+        },
+        {
+            "504416": "JACKSON AV/47 AV"
+        },
+        {
+            "503962": "11 ST/JACKSON AV"
+        },
+        {
+            "305166": "McGUINNESS BLVD/FREEMAN ST"
+        },
+        {
+            "305167": "MANHATTAN AV/FREEMAN ST"
+        },
+        {
+            "308188": "MANHATTAN AV/INDIA ST"
+        },
+        {
+            "305170": "MANHATTAN AV/GREENPOINT AV"
+        },
+        {
+            "305171": "MANHATTAN AV/CALYER ST"
+        },
+        {
+            "305172": "MANHATTAN AV/MESEROLE AV"
+        },
+        {
+            "305173": "MANHATTAN AV/NORMAN AV"
+        },
+        {
+            "305174": "MANHATTAN AV/NASSAU AV"
+        },
+        {
+            "305175": "MANHATTAN AV/DRIGGS AV"
+        },
+        {
+            "305177": "DRIGGS AV/UNION AV"
+        },
+        {
+            "305179": "DRIGGS AV/N 11 ST"
+        },
+        {
+            "307798": "DRIGGS AV/N 9 ST"
+        },
+        {
+            "308841": "DRIGGS AV/N 6 ST"
+        },
+        {
+            "305182": "DRIGGS AV/N 4 ST"
+        },
+        {
+            "305183": "DRIGGS AV/GRAND ST"
+        },
+        {
+            "304940": "DRIGGS AV/S 2 ST"
+        },
+        {
+            "305185": "DRIGGS AV/S 4 ST"
+        },
+        {
+            "305186": "DRIGGS AV/BROADWAY"
+        },
+        {
+            "308601": "ROEBLING ST/S 8 ST"
+        },
+        {
+            "308602": "DIVISION AV/DRIGGS AV"
+        },
+        {
+            "308603": "DIVISION AV/BERRY ST"
+        },
+        {
+            "305191": "WYTHE AV/CLYMER ST"
+        },
+        {
+            "305192": "WYTHE AV/ROSS ST"
+        },
+        {
+            "306948": "WYTHE AV/WILLIAMSBURG ST WEST"
+        },
+        {
+            "306954": "PARK AV/RYERSON ST"
+        },
+        {
+            "306777": "PARK AV/WASHINGTON AV"
+        },
+        {
+            "306778": "PARK AV/VANDERBILT AV"
+        },
+        {
+            "306779": "PARK AV/CARLTON AV"
+        },
+        {
+            "306814": "PARK AV/NORTH PORTLAND AV"
+        },
+        {
+            "901726": "PARK AV/N ELLIOTT PL"
+        },
+        {
+            "901575": "NAVY ST/SANDS ST"
+        },
+        {
+            "306834": "YORK AV/NAVY ST"
+        },
+        {
+            "306796": "GOLD ST/YORK ST"
+        },
+        {
+            "307995": "GOLD ST/SANDS ST"
+        },
+        {
+            "307996": "GOLD ST/TILLARY ST"
+        },
+        {
+            "307426": "JAY ST/TILLARY ST"
+        },
+        {
+            "302445": "JAY ST/WILLOUGHBY ST"
+        },
+        {
+            "306798": "SMITH ST/LIVINGSTON ST"
+        },
+        {
+            "901733": "SCHERMERHORN ST/SMITH ST"
+        }
+    ],
+    "Q59": [
+        {
+            "302294": "BROADWAY/ROEBLING ST"
+        },
+        {
+            "304943": "BROADWAY/BEDFORD AV"
+        },
+        {
+            "308577": "BROADWAY/WYTHE AV"
+        },
+        {
+            "308396": "KENT AV/S 6 ST"
+        },
+        {
+            "308397": "KENT AV/S 3 ST"
+        },
+        {
+            "308398": "KENT AV/S 1 ST"
+        },
+        {
+            "308399": "GRAND ST/WYTHE AV"
+        },
+        {
+            "304850": "GRAND ST/BEDFORD AV"
+        },
+        {
+            "308444": "ROEBLING ST/GRAND ST"
+        },
+        {
+            "309445": "METROPOLITAN AV/HAVEMEYER ST"
+        },
+        {
+            "309446": "METROPOLITAN AV/RODNEY ST"
+        },
+        {
+            "308272": "GRAND ST/UNION AV"
+        },
+        {
+            "307860": "GRAND ST/LORIMER ST"
+        },
+        {
+            "304244": "GRAND ST/GRAHAM AV"
+        },
+        {
+            "308503": "GRAND ST/BUSHWICK AV"
+        },
+        {
+            "304246": "GRAND ST/WATERBURY ST"
+        },
+        {
+            "304247": "GRAND ST/MORGAN AV"
+        },
+        {
+            "304863": "GRAND ST/METRO BRIDGE"
+        },
+        {
+            "306393": "GARDNER AV/GRAND ST"
+        },
+        {
+            "307861": "GRAND ST/GRAND ST BRIDGE"
+        },
+        {
+            "503690": "GRAND AV/47 ST"
+        },
+        {
+            "503748": "GRAND AV/PAGE PL"
+        },
+        {
+            "503734": "GRAND AV/54 ST"
+        },
+        {
+            "503750": "GRAND AV/RUST ST"
+        },
+        {
+            "503740": "GRAND AV/59 ST"
+        },
+        {
+            "503739": "GRAND AV/58 AV"
+        },
+        {
+            "504491": "GRAND AV/61 ST"
+        },
+        {
+            "503743": "GRAND AV/64 ST"
+        },
+        {
+            "503468": "GRAND AV/66 ST"
+        },
+        {
+            "503469": "GRAND AV/QUEENS MIDTOWN EXPWY"
+        },
+        {
+            "503470": "GRAND AV/69 PL"
+        },
+        {
+            "503471": "GRAND AV/71 ST"
+        },
+        {
+            "503258": "GRAND AV/73 ST"
+        },
+        {
+            "503472": "GRAND AV/74 ST"
+        },
+        {
+            "503473": "GRAND AV/79 ST"
+        },
+        {
+            "503475": "GRAND AV/84 ST"
+        },
+        {
+            "503476": "GRAND AV/HASPEL ST"
+        },
+        {
+            "503477": "GRAND AV/VAN HORN ST"
+        },
+        {
+            "502992": "GRAND AV/QUEENS BLVD"
+        },
+        {
+            "504398": "QUEENS BLVD/55 AV"
+        },
+        {
+            "504399": "QUEENS BLVD/56 AV"
+        },
+        {
+            "504400": "QUEENS BLVD/WOODHAVEN BLVD"
+        },
+        {
+            "904052": "HORACE HARDING SERVICE RD SOUTH/QUEENS BLVD"
+        },
+        {
+            "904053": "JUNCTION BLVD/HORACE HARDING SERVICE RD SOUTH"
+        }
+    ],
+    "B48": [
+        {
+            "306480": "MEEKER AV/STEWART AV"
+        },
+        {
+            "307632": "NASSAU AV/VARICK ST"
+        },
+        {
+            "303844": "NASSAU AV/HAUSMAN ST"
+        },
+        {
+            "303845": "NASSAU AV/KINGSLAND AV"
+        },
+        {
+            "303847": "NASSAU AV/HUMBOLDT ST"
+        },
+        {
+            "303848": "NASSAU AV/NEWEL ST"
+        },
+        {
+            "303849": "NASSAU AV/ECKFORD ST"
+        },
+        {
+            "303850": "NASSAU AV/MANHATTAN AV"
+        },
+        {
+            "305175": "MANHATTAN AV/DRIGGS AV"
+        },
+        {
+            "303852": "LORIMER ST/BAYARD ST"
+        },
+        {
+            "303853": "LORIMER ST/MEEKER AV"
+        },
+        {
+            "303854": "LORIMER ST/SKILLMAN AV"
+        },
+        {
+            "303855": "LORIMER ST/METROPOLITAN AV"
+        },
+        {
+            "303856": "LORIMER ST/AINSLIE ST"
+        },
+        {
+            "303857": "LORIMER ST/GRAND ST"
+        },
+        {
+            "303858": "LORIMER ST/TEN EYCK ST"
+        },
+        {
+            "303859": "LORIMER ST/MESEROLE ST"
+        },
+        {
+            "303860": "LORIMER ST/MONTROSE AV"
+        },
+        {
+            "303861": "LORIMER ST/BROADWAY"
+        },
+        {
+            "303862": "LORIMER ST/HARRISON AV"
+        },
+        {
+            "303863": "LORIMER ST/MARCY AV"
+        },
+        {
+            "303864": "LORIMER ST/LEE AV"
+        },
+        {
+            "303865": "WALLABOUT ST/BEDFORD AV"
+        },
+        {
+            "303866": "WALLABOUT ST/WYTHE AV"
+        },
+        {
+            "307169": "FRANKLIN AV/FLUSHING AV"
+        },
+        {
+            "303868": "FRANKLIN AV/PARK AV"
+        },
+        {
+            "303869": "FRANKLIN AV/MYRTLE AV"
+        },
+        {
+            "303870": "FRANKLIN AV/WILLOUGHBY AV"
+        },
+        {
+            "303871": "FRANKLIN AV/DE KALB AV"
+        },
+        {
+            "303872": "FRANKLIN AV/LAFAYETTE AV"
+        },
+        {
+            "307553": "FRANKLIN AV/GREENE AV"
+        },
+        {
+            "303874": "FRANKLIN AV/GATES AV"
+        },
+        {
+            "303875": "FRANKLIN AV/MADISON ST"
+        },
+        {
+            "303876": "FRANKLIN AV/PUTNAM AV"
+        },
+        {
+            "308073": "FRANKLIN AV/FULTON ST"
+        },
+        {
+            "303878": "FRANKLIN AV/ATLANTIC AV"
+        },
+        {
+            "303880": "FRANKLIN AV/BERGEN ST"
+        },
+        {
+            "303881": "FRANKLIN AV/PROSPECT PL"
+        },
+        {
+            "303882": "FRANKLIN AV/STERLING PL"
+        },
+        {
+            "303883": "FRANKLIN AV/SAINT JOHNS PL"
+        },
+        {
+            "303884": "FRANKLIN AV/EASTERN PKWY"
+        },
+        {
+            "303885": "FRANKLIN AV/UNION ST"
+        },
+        {
+            "303886": "FRANKLIN AV/CARROLL ST"
+        },
+        {
+            "303887": "FRANKLIN AV/MONTGOMERY ST"
+        },
+        {
+            "303888": "SULLIVAN PL/WASHINGTON AV"
+        },
+        {
+            "303791": "WASHINGTON AV/EMPIRE BLVD"
+        },
+        {
+            "901735": "LINCOLN RD/OCEAN AV"
+        }
+    ],
+    "B60": [
+        {
+            "304947": "WILLIAMS AV/FLATLANDS AV"
+        },
+        {
+            "304091": "FLATLANDS AV/E 108 ST"
+        },
+        {
+            "304092": "FLATLANDS AV/E 105 ST"
+        },
+        {
+            "308114": "FLATLANDS AV/E 103 ST"
+        },
+        {
+            "300602": "FLATLANDS AV/E 101 ST"
+        },
+        {
+            "306944": "FLATLANDS AV/E 98 ST"
+        },
+        {
+            "304954": "ROCKAWAY PKWY/GLENWOOD RD"
+        },
+        {
+            "304955": "ROCKAWAY PY/FARRAGUT RD"
+        },
+        {
+            "304956": "ROCKAWAY AV/FOSTER AV"
+        },
+        {
+            "304957": "ROCKAWAY AV/AVENUE D"
+        },
+        {
+            "304958": "ROCKAWAY AV/DITMAS AV"
+        },
+        {
+            "304959": "ROCKAWAY AV/LINDEN BLVD"
+        },
+        {
+            "304960": "ROCKAWAY AV/HEGEMAN AV"
+        },
+        {
+            "306967": "ROCKAWAY AV/LOTT AV"
+        },
+        {
+            "306722": "ROCKAWAY AV/RIVERDALE AV"
+        },
+        {
+            "306723": "ROCKAWAY AV/LIVONIA AV"
+        },
+        {
+            "306724": "ROCKAWAY AV/DUMONT AV"
+        },
+        {
+            "306725": "ROCKAWAY AV/BLAKE AV"
+        },
+        {
+            "306726": "ROCKAWAY AV/SUTTER AV"
+        },
+        {
+            "306727": "ROCKAWAY AV/BELMONT AV"
+        },
+        {
+            "306728": "ROCKAWAY AV/PITKIN AV"
+        },
+        {
+            "901478": "ROCKAWAY AV/EAST NEW YORK AV"
+        },
+        {
+            "307804": "ROCKAWAY AV/EASTERN PKWY"
+        },
+        {
+            "304973": "ROCKAWAY AV/PACIFIC ST"
+        },
+        {
+            "304974": "ROCKAWAY AV/ATLANTIC AV"
+        },
+        {
+            "304975": "ROCKAWAY AV/FULTON ST"
+        },
+        {
+            "304976": "ROCKAWAY AV/MACDOUGAL ST"
+        },
+        {
+            "304977": "ROCKAWAY AV/MARION ST"
+        },
+        {
+            "304978": "ROCKAWAY AV/BROADWAY"
+        },
+        {
+            "301982": "DECATUR ST/BUSHWICK AV"
+        },
+        {
+            "301983": "DECATUR ST/EVERGREEN AV"
+        },
+        {
+            "301984": "DECATUR ST/CENTRAL AV"
+        },
+        {
+            "304983": "WILSON AV/DECATUR ST"
+        },
+        {
+            "304984": "WILSON AV/SCHAEFFER ST"
+        },
+        {
+            "304986": "WILSON AV/HALSEY ST"
+        },
+        {
+            "304987": "WILSON AV/HANCOCK ST"
+        },
+        {
+            "304988": "WILSON AV/CORNELIA ST"
+        },
+        {
+            "308457": "WILSON AV/WOODBINE ST"
+        },
+        {
+            "304990": "WILSON AV/GATES AV"
+        },
+        {
+            "304991": "WILSON AV/GROVE ST"
+        },
+        {
+            "304992": "WILSON AV/BLEECKER ST"
+        },
+        {
+            "304993": "WILSON AV/HIMROD ST"
+        },
+        {
+            "304994": "WILSON AV/STANHOPE ST"
+        },
+        {
+            "304995": "WILSON AV/DE KALB AV"
+        },
+        {
+            "304996": "WILSON AV/WILLOUGHBY AV"
+        },
+        {
+            "304997": "WILSON AV/TROUTMAN ST"
+        },
+        {
+            "304998": "WILSON AV/MELROSE ST"
+        },
+        {
+            "304999": "WILSON AV/FLUSHING AV"
+        },
+        {
+            "305000": "MORGAN AV/THAMES ST"
+        },
+        {
+            "305001": "HARRISON PL/MORGAN AV"
+        },
+        {
+            "305002": "JOHNSON AV/MORGAN AV"
+        },
+        {
+            "901740": "JOHNSON AV/BUSHWICK PL"
+        },
+        {
+            "306713": "JOHNSON AV/BUSHWICK AV"
+        },
+        {
+            "305006": "JOHNSON AV/HUMBOLDT ST"
+        },
+        {
+            "306677": "GRAHAM AV/JOHNSON AV"
+        },
+        {
+            "306805": "MESEROLE ST/GRAHAM AV"
+        },
+        {
+            "305009": "MESEROLE ST/MANHATTAN AV"
+        },
+        {
+            "305010": "MESEROLE ST/LEONARD ST"
+        },
+        {
+            "305011": "MESEROLE ST/LORIMER ST"
+        },
+        {
+            "305012": "MESEROLE ST/UNION AV"
+        },
+        {
+            "305013": "S 4 ST/HEWES ST"
+        },
+        {
+            "305014": "S 4 ST/HOOPER ST"
+        },
+        {
+            "305015": "S 4 ST/RODNEY ST"
+        },
+        {
+            "302292": "MARCY AV/S 4 ST"
+        },
+        {
+            "302310": "BROADWAY/MARCY AV"
+        },
+        {
+            "801012": "WILLIAMSBURG BRIDGE PLAZA/LANE 1"
+        }
+    ],
+    "B47": [
+        {
+            "308312": "MARCUS GARVEY BLVD/BROADWAY"
+        },
+        {
+            "303178": "BROADWAY/PARK AV"
+        },
+        {
+            "303660": "BROADWAY/MYRTLE AV"
+        },
+        {
+            "303180": "BROADWAY/WILLOUGHBY AV"
+        },
+        {
+            "303662": "BROADWAY/MALCOLM X BLVD"
+        },
+        {
+            "303182": "BROADWAY/DE KALB AV"
+        },
+        {
+            "307228": "BROADWAY/LAFAYETTE AV"
+        },
+        {
+            "302059": "BROADWAY/GREENE AV"
+        },
+        {
+            "304942": "RALPH AV/GATES AV"
+        },
+        {
+            "302308": "RALPH AV/MADISON ST"
+        },
+        {
+            "303188": "RALPH AV/JEFFERSON AV"
+        },
+        {
+            "303189": "RALPH AV/HALSEY ST"
+        },
+        {
+            "303190": "RALPH AV/MACON ST"
+        },
+        {
+            "303191": "RALPH AV/DECATUR ST"
+        },
+        {
+            "303192": "RALPH AV/CHAUNCEY ST"
+        },
+        {
+            "303193": "RALPH AV/FULTON ST"
+        },
+        {
+            "308116": "RALPH AV/HERKIMER ST"
+        },
+        {
+            "303195": "RALPH AV/PACIFIC ST"
+        },
+        {
+            "303196": "RALPH AV/BERGEN ST"
+        },
+        {
+            "307000": "RALPH AV/SAINT MARKS AV"
+        },
+        {
+            "303198": "RALPH AV/STERLING PL"
+        },
+        {
+            "303556": "RALPH AV/SAINT JOHNS PL"
+        },
+        {
+            "307306": "RALPH AV/EASTERN PKWY NORTH"
+        },
+        {
+            "306348": "EAST NEW YORK AV/RALPH AV"
+        },
+        {
+            "306180": "RUTLAND RD/E 98 ST"
+        },
+        {
+            "306181": "ROCKAWAY PKWY/WINTHROP ST"
+        },
+        {
+            "306182": "CLARKSON AV/E 96 ST"
+        },
+        {
+            "306183": "CLARKSON AV/E 94 ST"
+        },
+        {
+            "306184": "CLARKSON AV/E 91 ST"
+        },
+        {
+            "308546": "REMSEN AV/LENOX RD"
+        },
+        {
+            "301781": "REMSEN AV/KINGS HWY"
+        },
+        {
+            "306189": "RALPH AV/CHURCH AV"
+        },
+        {
+            "306190": "RALPH AV/SNYDER AV"
+        },
+        {
+            "306191": "RALPH AV/TILDEN AV"
+        },
+        {
+            "306192": "RALPH AV/BEVERLY RD"
+        },
+        {
+            "306193": "RALPH AV/CLARENDON RD"
+        },
+        {
+            "306332": "RALPH AV/CHASE CT"
+        },
+        {
+            "306195": "RALPH AV/FOSTER AV"
+        },
+        {
+            "300557": "RALPH AV/FARRAGUT RD"
+        },
+        {
+            "300559": "RALPH AV/GLENWOOD RD"
+        },
+        {
+            "306198": "RALPH AV/FLATLANDS AV"
+        },
+        {
+            "306199": "RALPH AV/AVENUE J"
+        },
+        {
+            "306200": "RALPH AV/AVENUE K"
+        },
+        {
+            "306201": "RALPH AV/AVENUE L"
+        },
+        {
+            "306202": "RALPH AV/AVENUE M"
+        },
+        {
+            "306203": "RALPH AV/AVENUE N"
+        },
+        {
+            "306204": "MILL AV/RALPH AV"
+        },
+        {
+            "306205": "MILL AV/AVENUE T"
+        },
+        {
+            "306206": "MILL AV/AVENUE U"
+        },
+        {
+            "300245": "AVENUE U/E 59 ST"
+        },
+        {
+            "300246": "AVENUE U/E 57 ST"
+        },
+        {
+            "300247": "AVENUE U/E 56 ST"
+        },
+        {
+            "306209": "AVENUE U/E 54 ST"
+        },
+        {
+            "901001": "FLATBUSH AV/AV U"
+        },
+        {
+            "306144": "AVENUE U/E 54 ST"
+        }
+    ],
+    "B38": [
+        {
+            "901531": "SENECA AV/CORNELIA ST"
+        },
+        {
+            "504244": "SENECA AV/GATES AV"
+        },
+        {
+            "504246": "SENECA AV/BLEECKER ST"
+        },
+        {
+            "504249": "SENECA AV/DE KALB AV"
+        },
+        {
+            "303072": "DE KALB AV/SAINT NICHOLAS AV"
+        },
+        {
+            "901743": "DE KALB AV/WYCKOFF AV"
+        },
+        {
+            "303074": "DE KALB AV/IRVING AV"
+        },
+        {
+            "303075": "DE KALB AV/KNICKERBOCKER AV"
+        },
+        {
+            "303076": "DE KALB AV/WILSON AV"
+        },
+        {
+            "303077": "DE KALB AV/MYRTLE AV"
+        },
+        {
+            "303078": "DE KALB AV/EVERGREEN AV"
+        },
+        {
+            "308229": "DE KALB AV/BROADWAY"
+        },
+        {
+            "303081": "DE KALB AV/MALCOLM X BLVD"
+        },
+        {
+            "303082": "DE KALB AV/STUYVESANT AV"
+        },
+        {
+            "303083": "DE KALB AV/LEWIS AV"
+        },
+        {
+            "306466": "DE KALB AV/MARCUS GARVEY BLVD"
+        },
+        {
+            "930058": "DE KALB AV/THROOP AV"
+        },
+        {
+            "303086": "DE KALB AV/TOMPKINS AV"
+        },
+        {
+            "303087": "DE KALB AV/MARCY AV"
+        },
+        {
+            "303088": "DE KALB AV/NOSTRAND AV"
+        },
+        {
+            "303090": "DE KALB AV/BEDFORD AV"
+        },
+        {
+            "303091": "DE KALB AV/FRANKLIN AV"
+        },
+        {
+            "303092": "DE KALB AV/CLASSON AV"
+        },
+        {
+            "306659": "DE KALB AV/RYERSON AV"
+        },
+        {
+            "303094": "DE KALB AV/WASHINGTON AV"
+        },
+        {
+            "303096": "DE KALB AV/VANDERBILT AV"
+        },
+        {
+            "301931": "DE KALB AV/CARLTON AV"
+        },
+        {
+            "301933": "DE KALB AV/SOUTH PORTLAND AV"
+        },
+        {
+            "301934": "DE KALB AV/FORT GREENE PL"
+        },
+        {
+            "303102": "DE KALB AV/FLATBUSH AV EXT"
+        },
+        {
+            "307492": "FULTON ST/DUFFIELD ST"
+        },
+        {
+            "302433": "FULTON ST/JAY ST"
+        },
+        {
+            "302434": "COURT ST/MONTAGUE ST"
+        },
+        {
+            "306533": "CADMAN PLAZA WEST/MONTAGUE ST"
+        },
+        {
+            "901070": "CADMAN PLAZA WEST/TILLARY ST"
+        }
+    ],
+    "B57": [
+        {
+            "306480": "MEEKER AV/STEWART AV"
+        },
+        {
+            "307632": "NASSAU AV/VARICK ST"
+        },
+        {
+            "303844": "NASSAU AV/HAUSMAN ST"
+        },
+        {
+            "303845": "NASSAU AV/KINGSLAND AV"
+        },
+        {
+            "303847": "NASSAU AV/HUMBOLDT ST"
+        },
+        {
+            "303848": "NASSAU AV/NEWEL ST"
+        },
+        {
+            "303849": "NASSAU AV/ECKFORD ST"
+        },
+        {
+            "303850": "NASSAU AV/MANHATTAN AV"
+        },
+        {
+            "305175": "MANHATTAN AV/DRIGGS AV"
+        },
+        {
+            "303852": "LORIMER ST/BAYARD ST"
+        },
+        {
+            "303853": "LORIMER ST/MEEKER AV"
+        },
+        {
+            "303854": "LORIMER ST/SKILLMAN AV"
+        },
+        {
+            "303855": "LORIMER ST/METROPOLITAN AV"
+        },
+        {
+            "303856": "LORIMER ST/AINSLIE ST"
+        },
+        {
+            "303857": "LORIMER ST/GRAND ST"
+        },
+        {
+            "303858": "LORIMER ST/TEN EYCK ST"
+        },
+        {
+            "303859": "LORIMER ST/MESEROLE ST"
+        },
+        {
+            "303860": "LORIMER ST/MONTROSE AV"
+        },
+        {
+            "303861": "LORIMER ST/BROADWAY"
+        },
+        {
+            "303862": "LORIMER ST/HARRISON AV"
+        },
+        {
+            "303863": "LORIMER ST/MARCY AV"
+        },
+        {
+            "303864": "LORIMER ST/LEE AV"
+        },
+        {
+            "303865": "WALLABOUT ST/BEDFORD AV"
+        },
+        {
+            "303866": "WALLABOUT ST/WYTHE AV"
+        },
+        {
+            "307169": "FRANKLIN AV/FLUSHING AV"
+        },
+        {
+            "303868": "FRANKLIN AV/PARK AV"
+        },
+        {
+            "303869": "FRANKLIN AV/MYRTLE AV"
+        },
+        {
+            "303870": "FRANKLIN AV/WILLOUGHBY AV"
+        },
+        {
+            "303871": "FRANKLIN AV/DE KALB AV"
+        },
+        {
+            "303872": "FRANKLIN AV/LAFAYETTE AV"
+        },
+        {
+            "307553": "FRANKLIN AV/GREENE AV"
+        },
+        {
+            "303874": "FRANKLIN AV/GATES AV"
+        },
+        {
+            "303875": "FRANKLIN AV/MADISON ST"
+        },
+        {
+            "303876": "FRANKLIN AV/PUTNAM AV"
+        },
+        {
+            "308073": "FRANKLIN AV/FULTON ST"
+        },
+        {
+            "303878": "FRANKLIN AV/ATLANTIC AV"
+        },
+        {
+            "303880": "FRANKLIN AV/BERGEN ST"
+        },
+        {
+            "303881": "FRANKLIN AV/PROSPECT PL"
+        },
+        {
+            "303882": "FRANKLIN AV/STERLING PL"
+        },
+        {
+            "303883": "FRANKLIN AV/SAINT JOHNS PL"
+        },
+        {
+            "303884": "FRANKLIN AV/EASTERN PKWY"
+        },
+        {
+            "303885": "FRANKLIN AV/UNION ST"
+        },
+        {
+            "303886": "FRANKLIN AV/CARROLL ST"
+        },
+        {
+            "303887": "FRANKLIN AV/MONTGOMERY ST"
+        },
+        {
+            "303888": "SULLIVAN PL/WASHINGTON AV"
+        },
+        {
+            "303791": "WASHINGTON AV/EMPIRE BLVD"
+        },
+        {
+            "901735": "LINCOLN RD/OCEAN AV"
+        }
+    ],
+    "B24": [
+        {
+            "304947": "WILLIAMS AV/FLATLANDS AV"
+        },
+        {
+            "304091": "FLATLANDS AV/E 108 ST"
+        },
+        {
+            "304092": "FLATLANDS AV/E 105 ST"
+        },
+        {
+            "308114": "FLATLANDS AV/E 103 ST"
+        },
+        {
+            "300602": "FLATLANDS AV/E 101 ST"
+        },
+        {
+            "306944": "FLATLANDS AV/E 98 ST"
+        },
+        {
+            "304954": "ROCKAWAY PKWY/GLENWOOD RD"
+        },
+        {
+            "304955": "ROCKAWAY PY/FARRAGUT RD"
+        },
+        {
+            "304956": "ROCKAWAY AV/FOSTER AV"
+        },
+        {
+            "304957": "ROCKAWAY AV/AVENUE D"
+        },
+        {
+            "304958": "ROCKAWAY AV/DITMAS AV"
+        },
+        {
+            "304959": "ROCKAWAY AV/LINDEN BLVD"
+        },
+        {
+            "304960": "ROCKAWAY AV/HEGEMAN AV"
+        },
+        {
+            "306967": "ROCKAWAY AV/LOTT AV"
+        },
+        {
+            "306722": "ROCKAWAY AV/RIVERDALE AV"
+        },
+        {
+            "306723": "ROCKAWAY AV/LIVONIA AV"
+        },
+        {
+            "306724": "ROCKAWAY AV/DUMONT AV"
+        },
+        {
+            "306725": "ROCKAWAY AV/BLAKE AV"
+        },
+        {
+            "306726": "ROCKAWAY AV/SUTTER AV"
+        },
+        {
+            "306727": "ROCKAWAY AV/BELMONT AV"
+        },
+        {
+            "306728": "ROCKAWAY AV/PITKIN AV"
+        },
+        {
+            "901478": "ROCKAWAY AV/EAST NEW YORK AV"
+        },
+        {
+            "307804": "ROCKAWAY AV/EASTERN PKWY"
+        },
+        {
+            "304973": "ROCKAWAY AV/PACIFIC ST"
+        },
+        {
+            "304974": "ROCKAWAY AV/ATLANTIC AV"
+        },
+        {
+            "304975": "ROCKAWAY AV/FULTON ST"
+        },
+        {
+            "304976": "ROCKAWAY AV/MACDOUGAL ST"
+        },
+        {
+            "304977": "ROCKAWAY AV/MARION ST"
+        },
+        {
+            "304978": "ROCKAWAY AV/BROADWAY"
+        },
+        {
+            "301982": "DECATUR ST/BUSHWICK AV"
+        },
+        {
+            "301983": "DECATUR ST/EVERGREEN AV"
+        },
+        {
+            "301984": "DECATUR ST/CENTRAL AV"
+        },
+        {
+            "304983": "WILSON AV/DECATUR ST"
+        },
+        {
+            "304984": "WILSON AV/SCHAEFFER ST"
+        },
+        {
+            "304986": "WILSON AV/HALSEY ST"
+        },
+        {
+            "304987": "WILSON AV/HANCOCK ST"
+        },
+        {
+            "304988": "WILSON AV/CORNELIA ST"
+        },
+        {
+            "308457": "WILSON AV/WOODBINE ST"
+        },
+        {
+            "304990": "WILSON AV/GATES AV"
+        },
+        {
+            "304991": "WILSON AV/GROVE ST"
+        },
+        {
+            "304992": "WILSON AV/BLEECKER ST"
+        },
+        {
+            "304993": "WILSON AV/HIMROD ST"
+        },
+        {
+            "304994": "WILSON AV/STANHOPE ST"
+        },
+        {
+            "304995": "WILSON AV/DE KALB AV"
+        },
+        {
+            "304996": "WILSON AV/WILLOUGHBY AV"
+        },
+        {
+            "304997": "WILSON AV/TROUTMAN ST"
+        },
+        {
+            "304998": "WILSON AV/MELROSE ST"
+        },
+        {
+            "304999": "WILSON AV/FLUSHING AV"
+        },
+        {
+            "305000": "MORGAN AV/THAMES ST"
+        },
+        {
+            "305001": "HARRISON PL/MORGAN AV"
+        },
+        {
+            "305002": "JOHNSON AV/MORGAN AV"
+        },
+        {
+            "901740": "JOHNSON AV/BUSHWICK PL"
+        },
+        {
+            "306713": "JOHNSON AV/BUSHWICK AV"
+        },
+        {
+            "305006": "JOHNSON AV/HUMBOLDT ST"
+        },
+        {
+            "306677": "GRAHAM AV/JOHNSON AV"
+        },
+        {
+            "306805": "MESEROLE ST/GRAHAM AV"
+        },
+        {
+            "305009": "MESEROLE ST/MANHATTAN AV"
+        },
+        {
+            "305010": "MESEROLE ST/LEONARD ST"
+        },
+        {
+            "305011": "MESEROLE ST/LORIMER ST"
+        },
+        {
+            "305012": "MESEROLE ST/UNION AV"
+        },
+        {
+            "305013": "S 4 ST/HEWES ST"
+        },
+        {
+            "305014": "S 4 ST/HOOPER ST"
+        },
+        {
+            "305015": "S 4 ST/RODNEY ST"
+        },
+        {
+            "302292": "MARCY AV/S 4 ST"
+        },
+        {
+            "302310": "BROADWAY/MARCY AV"
+        },
+        {
+            "801012": "WILLIAMSBURG BRIDGE PLAZA/LANE 1"
+        }
+    ],
+    "B32": [
+        {
+            "302294": "BROADWAY/ROEBLING ST"
+        },
+        {
+            "304943": "BROADWAY/BEDFORD AV"
+        },
+        {
+            "308577": "BROADWAY/WYTHE AV"
+        },
+        {
+            "308396": "KENT AV/S 6 ST"
+        },
+        {
+            "308397": "KENT AV/S 3 ST"
+        },
+        {
+            "308398": "KENT AV/S 1 ST"
+        },
+        {
+            "901302": "KENT AV/METROPOLITAN AV"
+        },
+        {
+            "901303": "KENT AV/N 6 ST"
+        },
+        {
+            "901304": "KENT AV/N 9 ST"
+        },
+        {
+            "901305": "KENT AV/N 12 ST"
+        },
+        {
+            "901306": "FRANKLIN ST/CALYER ST"
+        },
+        {
+            "901308": "FRANKLIN ST/GREENPOINT AV"
+        },
+        {
+            "901309": "FRANKLIN ST/INDIA ST"
+        },
+        {
+            "901310": "GREEN ST/MANHATTAN AV"
+        },
+        {
+            "305162": "McGUINNESS BLVD/FREEMAN ST"
+        },
+        {
+            "901311": "pulaski br/box st"
+        },
+        {
+            "901326": "11 ST/48 AV"
+        },
+        {
+            "901312": "11 ST/46 AV"
+        },
+        {
+            "901313": "11 ST/45 AV"
+        },
+        {
+            "901314": "44 DR/21 ST"
+        }
+    ],
+    "B39": [
+        {
+            "303117": "WILLIAMSBURG BRIDGE PLAZA/LANE 1"
+        },
+        {
+            "901444": "s 4 st/havemeyer st"
+        },
+        {
+            "403679": "DELANCEY ST/ESSEX ST"
+        },
+        {
+            "404167": "ALLEN ST/DELANCEY ST"
+        }
+    ],
+    "B8": [
+        {
+            "307313": "POLY PL/VETERANS HOSPITAL"
+        },
+        {
+            "307951": "CROPSEY AV/BAY 8 ST"
+        },
+        {
+            "300790": "CROPSEY AV/15 AV"
+        },
+        {
+            "300791": "CROPSEY AV/16 AV"
+        },
+        {
+            "300792": "CROPSEY AV/17 AV"
+        },
+        {
+            "306470": "CROPSEY AV/BAY 17 ST"
+        },
+        {
+            "300794": "18 AV/BATH AV"
+        },
+        {
+            "300795": "18 AV/BENSON AV"
+        },
+        {
+            "300796": "18 AV/86 ST"
+        },
+        {
+            "300797": "18 AV/85 ST"
+        },
+        {
+            "300798": "18 AV/84 ST"
+        },
+        {
+            "300799": "18 AV/81 ST"
+        },
+        {
+            "300800": "18 AV/79 ST"
+        },
+        {
+            "300801": "18 AV/77 ST"
+        },
+        {
+            "300802": "18 AV/BAY RIDGE PKWY"
+        },
+        {
+            "300803": "18 AV/72 ST"
+        },
+        {
+            "300804": "18 AV/70 ST"
+        },
+        {
+            "300805": "18 AV/68 ST"
+        },
+        {
+            "300806": "18 AV/66 ST"
+        },
+        {
+            "300807": "18 AV/64 ST"
+        },
+        {
+            "300808": "18 AV/62 ST"
+        },
+        {
+            "300809": "18 AV/60 ST"
+        },
+        {
+            "307666": "18 AV/57 ST"
+        },
+        {
+            "300811": "18 AV/55 ST"
+        },
+        {
+            "300812": "18 AV/53 ST"
+        },
+        {
+            "300814": "18 AV/50 ST"
+        },
+        {
+            "300815": "18 AV/49 ST"
+        },
+        {
+            "300816": "18 AV/47 ST"
+        },
+        {
+            "300817": "18 AV/McDONALD AV"
+        },
+        {
+            "300818": "18 AV/E 3 ST"
+        },
+        {
+            "300819": "18 AV/OCEAN PKWY"
+        },
+        {
+            "300820": "18 AV/E 8 ST"
+        },
+        {
+            "300821": "CONEY ISLAND AV/18 AV"
+        },
+        {
+            "300822": "CONEY ISLAND AV/NEWKIRK AV"
+        },
+        {
+            "300823": "FOSTER AV/CONEY ISLAND AV"
+        },
+        {
+            "300824": "FOSTER AV/ARGYLE RD"
+        },
+        {
+            "300825": "FOSTER AV/E 16 ST"
+        },
+        {
+            "300826": "FOSTER AV/E 18 ST"
+        },
+        {
+            "300827": "FOSTER AV/OCEAN AV"
+        },
+        {
+            "300828": "FOSTER AV/E 22 ST"
+        },
+        {
+            "300830": "FOSTER AV/FLATBUSH AV"
+        },
+        {
+            "300831": "ROGERS AV/FOSTER AV"
+        },
+        {
+            "300832": "AVENUE D/ROGERS AV"
+        },
+        {
+            "300833": "AVENUE D/NOSTRAND AV"
+        },
+        {
+            "300834": "AVENUE D/E 31 ST"
+        },
+        {
+            "300835": "AVENUE D/NEW YORK AV"
+        },
+        {
+            "300836": "AVENUE D/E 35 ST"
+        },
+        {
+            "300837": "AVENUE D/E 37 ST"
+        },
+        {
+            "300838": "AVENUE D/E 39 ST"
+        },
+        {
+            "306345": "AVENUE D/E 42 ST"
+        },
+        {
+            "300839": "AVENUE D/E 45 ST"
+        },
+        {
+            "300841": "AVENUE D/SCHENECTADY AV"
+        },
+        {
+            "300842": "AVENUE D/UTICA AV"
+        },
+        {
+            "300843": "AVENUE D/E 53 ST"
+        },
+        {
+            "300844": "AVENUE D/KINGS HWY"
+        },
+        {
+            "300692": "KINGS HWY/CLARENDON RD"
+        },
+        {
+            "300693": "KINGS HWY/BEVERLY RD"
+        },
+        {
+            "300847": "BEVERLY RD/E 57 ST"
+        },
+        {
+            "300848": "BEVERLY RD/E 59 ST"
+        },
+        {
+            "306869": "AVENUE B/RALPH AV"
+        },
+        {
+            "307475": "AVENUE B/E 87 ST"
+        },
+        {
+            "306870": "REMSEN AV/AVENUE B"
+        },
+        {
+            "301746": "REMSEN AV/AVENUE A"
+        },
+        {
+            "306838": "CHURCH AV/REMSEN AV"
+        },
+        {
+            "302721": "CHURCH AV/E 93 ST"
+        },
+        {
+            "302722": "CHURCH AV/E 94 ST"
+        },
+        {
+            "302723": "CHURCH AV/E 96 ST"
+        },
+        {
+            "302724": "CHURCH AV/ROCKAWAY PKWY"
+        },
+        {
+            "307954": "E 98 ST/CHURCH AV"
+        },
+        {
+            "307115": "HEGEMAN AV/THOMAS S BOYLAND ST"
+        },
+        {
+            "901029": "ROCKAWAY AV/HEGEMAN AV"
+        }
+    ],
+    "B6769": [
+        {
+            "306566": "MCDONALD AV/CORTELYOU RD"
+        },
+        {
+            "306549": "MCDONALD AV/AVENUE C"
+        },
+        {
+            "306550": "MCDONALD AV/CHURCH AV"
+        },
+        {
+            "306551": "MCDONALD AV/ALBEMARLE RD"
+        },
+        {
+            "307102": "MCDONALD AV/CATON AV"
+        },
+        {
+            "306553": "MCDONALD AV/GREENWOOD AV"
+        },
+        {
+            "306554": "MCDONALD AV/VANDERBILT ST"
+        },
+        {
+            "306555": "MCDONALD AV/TERRACE PL"
+        },
+        {
+            "306556": "20 ST/10 AV"
+        },
+        {
+            "306571": "20 ST/PROSPECT PARK WEST"
+        },
+        {
+            "305624": "20 ST/8 AV"
+        },
+        {
+            "306421": "7 AV/19 ST"
+        },
+        {
+            "305626": "7 AV/PROSPECT AV"
+        },
+        {
+            "305627": "7 AV/15 ST"
+        },
+        {
+            "305628": "7 AV/13 ST"
+        },
+        {
+            "305629": "7 AV/11 ST"
+        },
+        {
+            "305630": "7 AV/9 ST"
+        },
+        {
+            "307936": "7 AV/6 ST"
+        },
+        {
+            "305632": "7 AV/3 ST"
+        },
+        {
+            "305633": "7 AV/GARFIELD PL"
+        },
+        {
+            "305634": "7 AV/UNION ST"
+        },
+        {
+            "305635": "7 AV/LINCOLN PL"
+        },
+        {
+            "305636": "7 AV/STERLING PL"
+        },
+        {
+            "307210": "FLATBUSH AV/SAINT MARKS AV"
+        },
+        {
+            "303253": "FLATBUSH AV/BERGEN ST"
+        },
+        {
+            "308641": "FLATBUSH AV/PACIFIC ST"
+        },
+        {
+            "303254": "FLATBUSH AV/ATLANTIC AV"
+        },
+        {
+            "901731": "LIVINGSTON ST/NEVINS ST"
+        },
+        {
+            "901732": "LIVINGSTON ST/HOYT ST"
+        },
+        {
+            "303259": "LIVINGSTON ST/SMITH ST"
+        },
+        {
+            "306969": "JAY ST/WILLOUGHBY ST"
+        },
+        {
+            "306961": "JAY ST/TILLARY ST"
+        },
+        {
+            "304722": "SANDS ST/JAY ST"
+        }
+    ],
+    "B16": [
+        {
+            "301678": "37 ST/13 AV"
+        },
+        {
+            "301679": "13 AV/39 ST"
+        },
+        {
+            "301680": "13 AV/41 ST"
+        },
+        {
+            "301681": "13 AV/43 ST"
+        },
+        {
+            "301682": "13 AV/45 ST"
+        },
+        {
+            "301683": "13 AV/47 ST"
+        },
+        {
+            "301684": "13 AV/49 ST"
+        },
+        {
+            "306286": "13 AV/50 ST"
+        },
+        {
+            "301685": "13 AV/52 ST"
+        },
+        {
+            "301686": "13 AV/54 ST"
+        },
+        {
+            "307518": "13 AV/56 ST"
+        },
+        {
+            "301689": "57 ST/12 AV"
+        },
+        {
+            "301690": "57 ST/11 AV"
+        },
+        {
+            "301691": "57 ST/FORT HAMILTON PKWY"
+        },
+        {
+            "301692": "FORT HAMILTON PKWY/58 ST"
+        },
+        {
+            "901479": "FORT HAMILTON PKWY/60 ST"
+        },
+        {
+            "301694": "FORT HAMILTON PKWY/62 ST"
+        },
+        {
+            "308366": "FORT HAMILTON PKWY/64 ST"
+        },
+        {
+            "308063": "FORT HAMILTON PKWY/66 ST"
+        },
+        {
+            "301698": "FORT HAMILTON PKWY/BAY RIDGE AV"
+        },
+        {
+            "306276": "FORT HAMILTON PKWY/70 ST"
+        },
+        {
+            "301700": "FORT HAMILTON PKWY/73 ST"
+        },
+        {
+            "301701": "FORT HAMILTON PKWY/BAY RIDGE PKWY"
+        },
+        {
+            "307513": "FORT HAMILTON PKWY/7 AV"
+        },
+        {
+            "307488": "7 AV SERVICE RD SOUTH/79 ST"
+        },
+        {
+            "307489": "7 AV SERVICE RD SOUTH/81 ST"
+        },
+        {
+            "307490": "FORT HAMILTON PKWY/83 ST"
+        },
+        {
+            "307501": "86 ST/FORT HAMILTON PKWY"
+        },
+        {
+            "301707": "86 ST/5 AV"
+        },
+        {
+            "301708": "86 ST/4 AV"
+        },
+        {
+            "301709": "86 ST/3 AV"
+        },
+        {
+            "301710": "86 ST/RIDGE BLVD"
+        },
+        {
+            "301711": "86 ST/COLONIAL RD"
+        },
+        {
+            "307515": "86 ST/NARROWS AV"
+        },
+        {
+            "301714": "SHORE RD/88 ST"
+        },
+        {
+            "301715": "SHORE RD/NARROWS AV"
+        },
+        {
+            "301716": "SHORE RD/91 ST"
+        },
+        {
+            "301717": "SHORE RD/OLIVER ST"
+        },
+        {
+            "301718": "SHORE RD/RIDGE BLVD"
+        },
+        {
+            "301719": "SHORE RD/97 ST"
+        },
+        {
+            "301720": "SHORE RD/99 ST"
+        },
+        {
+            "301721": "3 AV/SHORE RD"
+        },
+        {
+            "301722": "3 AV/MARINE AV"
+        },
+        {
+            "301723": "MARINE AV/4 AV"
+        },
+        {
+            "301724": "4 AV/99 ST"
+        },
+        {
+            "301725": "4 AV/100 ST"
+        },
+        {
+            "901445": "SHORE RD/4 AV"
+        }
+    ],
+    "B68": [
+        {
+            "306566": "MCDONALD AV/CORTELYOU RD"
+        },
+        {
+            "306549": "MCDONALD AV/AVENUE C"
+        },
+        {
+            "306550": "MCDONALD AV/CHURCH AV"
+        },
+        {
+            "306551": "MCDONALD AV/ALBEMARLE RD"
+        },
+        {
+            "307102": "MCDONALD AV/CATON AV"
+        },
+        {
+            "306553": "MCDONALD AV/GREENWOOD AV"
+        },
+        {
+            "306554": "MCDONALD AV/VANDERBILT ST"
+        },
+        {
+            "306555": "MCDONALD AV/TERRACE PL"
+        },
+        {
+            "306556": "20 ST/10 AV"
+        },
+        {
+            "306571": "20 ST/PROSPECT PARK WEST"
+        },
+        {
+            "305624": "20 ST/8 AV"
+        },
+        {
+            "306421": "7 AV/19 ST"
+        },
+        {
+            "305626": "7 AV/PROSPECT AV"
+        },
+        {
+            "305627": "7 AV/15 ST"
+        },
+        {
+            "305628": "7 AV/13 ST"
+        },
+        {
+            "305629": "7 AV/11 ST"
+        },
+        {
+            "305630": "7 AV/9 ST"
+        },
+        {
+            "307936": "7 AV/6 ST"
+        },
+        {
+            "305632": "7 AV/3 ST"
+        },
+        {
+            "305633": "7 AV/GARFIELD PL"
+        },
+        {
+            "305634": "7 AV/UNION ST"
+        },
+        {
+            "305635": "7 AV/LINCOLN PL"
+        },
+        {
+            "305636": "7 AV/STERLING PL"
+        },
+        {
+            "307210": "FLATBUSH AV/SAINT MARKS AV"
+        },
+        {
+            "303253": "FLATBUSH AV/BERGEN ST"
+        },
+        {
+            "308641": "FLATBUSH AV/PACIFIC ST"
+        },
+        {
+            "303254": "FLATBUSH AV/ATLANTIC AV"
+        },
+        {
+            "901731": "LIVINGSTON ST/NEVINS ST"
+        },
+        {
+            "901732": "LIVINGSTON ST/HOYT ST"
+        },
+        {
+            "303259": "LIVINGSTON ST/SMITH ST"
+        },
+        {
+            "306969": "JAY ST/WILLOUGHBY ST"
+        },
+        {
+            "306961": "JAY ST/TILLARY ST"
+        },
+        {
+            "304722": "SANDS ST/JAY ST"
+        }
+    ],
+    "B43": [
+        {
+            "901736": "LINCOLN RD/OCEAN AV"
+        },
+        {
+            "307643": "OCEAN AV/LINCOLN RD"
+        },
+        {
+            "307644": "OCEAN AV/OPP 231 OCEAN AV"
+        },
+        {
+            "307645": "OCEAN AV/PARKSIDE AV"
+        },
+        {
+            "301663": "OCEAN AV/CATON AV"
+        },
+        {
+            "301664": "CATON AV/SAINT PAULS PL"
+        },
+        {
+            "301665": "CATON AV/PARADE PL"
+        },
+        {
+            "301667": "CATON AV/ARGYLE RD"
+        },
+        {
+            "301669": "CATON AV/CONEY ISLAND AV"
+        },
+        {
+            "301671": "CATON AV/OCEAN PKWY"
+        },
+        {
+            "301672": "CATON AV/E 5 ST"
+        },
+        {
+            "301673": "CATON AV/E 3 ST"
+        },
+        {
+            "301674": "CATON AV/McDONALD AV"
+        },
+        {
+            "301675": "DAHILL RD/12 AV"
+        },
+        {
+            "301676": "12 AV/CHESTER AV"
+        },
+        {
+            "301677": "37 ST/12 AV"
+        },
+        {
+            "301678": "37 ST/13 AV"
+        },
+        {
+            "301679": "13 AV/39 ST"
+        },
+        {
+            "301680": "13 AV/41 ST"
+        },
+        {
+            "301681": "13 AV/43 ST"
+        },
+        {
+            "301682": "13 AV/45 ST"
+        },
+        {
+            "301683": "13 AV/47 ST"
+        },
+        {
+            "301684": "13 AV/49 ST"
+        },
+        {
+            "306286": "13 AV/50 ST"
+        },
+        {
+            "301685": "13 AV/52 ST"
+        },
+        {
+            "301686": "13 AV/54 ST"
+        },
+        {
+            "307518": "13 AV/56 ST"
+        },
+        {
+            "301689": "57 ST/12 AV"
+        },
+        {
+            "301690": "57 ST/11 AV"
+        },
+        {
+            "301691": "57 ST/FORT HAMILTON PKWY"
+        },
+        {
+            "301692": "FORT HAMILTON PKWY/58 ST"
+        },
+        {
+            "901479": "FORT HAMILTON PKWY/60 ST"
+        },
+        {
+            "301694": "FORT HAMILTON PKWY/62 ST"
+        },
+        {
+            "308366": "FORT HAMILTON PKWY/64 ST"
+        },
+        {
+            "308063": "FORT HAMILTON PKWY/66 ST"
+        },
+        {
+            "301698": "FORT HAMILTON PKWY/BAY RIDGE AV"
+        },
+        {
+            "306276": "FORT HAMILTON PKWY/70 ST"
+        },
+        {
+            "301700": "FORT HAMILTON PKWY/73 ST"
+        },
+        {
+            "301701": "FORT HAMILTON PKWY/BAY RIDGE PKWY"
+        },
+        {
+            "307513": "FORT HAMILTON PKWY/7 AV"
+        },
+        {
+            "307488": "7 AV SERVICE RD SOUTH/79 ST"
+        },
+        {
+            "307489": "7 AV SERVICE RD SOUTH/81 ST"
+        },
+        {
+            "307490": "FORT HAMILTON PKWY/83 ST"
+        },
+        {
+            "307501": "86 ST/FORT HAMILTON PKWY"
+        },
+        {
+            "301707": "86 ST/5 AV"
+        },
+        {
+            "301708": "86 ST/4 AV"
+        },
+        {
+            "301709": "86 ST/3 AV"
+        },
+        {
+            "301710": "86 ST/RIDGE BLVD"
+        },
+        {
+            "301711": "86 ST/COLONIAL RD"
+        },
+        {
+            "307515": "86 ST/NARROWS AV"
+        },
+        {
+            "301714": "SHORE RD/88 ST"
+        },
+        {
+            "301715": "SHORE RD/NARROWS AV"
+        },
+        {
+            "301716": "SHORE RD/91 ST"
+        },
+        {
+            "301717": "SHORE RD/OLIVER ST"
+        },
+        {
+            "301718": "SHORE RD/RIDGE BLVD"
+        },
+        {
+            "301719": "SHORE RD/97 ST"
+        },
+        {
+            "301720": "SHORE RD/99 ST"
+        },
+        {
+            "301721": "3 AV/SHORE RD"
+        },
+        {
+            "301722": "3 AV/MARINE AV"
+        },
+        {
+            "301723": "MARINE AV/4 AV"
+        },
+        {
+            "301724": "4 AV/99 ST"
+        },
+        {
+            "301725": "4 AV/100 ST"
+        },
+        {
+            "901445": "SHORE RD/4 AV"
+        }
+    ],
+    "B61": [
+        {
+            "306328": "SMITH ST/FULTON ST"
+        },
+        {
+            "307408": "BOERUM PL/JORALEMON ST"
+        },
+        {
+            "305396": "ATLANTIC AV/BOERUM PL"
+        },
+        {
+            "305397": "ATLANTIC AV/COURT ST"
+        },
+        {
+            "305216": "ATLANTIC AV/CLINTON ST"
+        },
+        {
+            "305217": "ATLANTIC AV/HENRY ST"
+        },
+        {
+            "308049": "COLUMBIA ST/CONGRESS ST"
+        },
+        {
+            "308564": "COLUMBIA ST/BALTIC ST"
+        },
+        {
+            "305224": "COLUMBIA ST/SACKETT ST"
+        },
+        {
+            "305226": "COLUMBIA ST/CARROLL ST"
+        },
+        {
+            "305228": "VAN BRUNT ST/SUMMIT ST"
+        },
+        {
+            "305229": "VAN BRUNT ST/COMMERCE ST"
+        },
+        {
+            "305230": "VAN BRUNT ST/VERONA ST"
+        },
+        {
+            "308620": "VAN BRUNT ST/KING ST"
+        },
+        {
+            "305232": "VAN BRUNT ST/WOLCOTT ST"
+        },
+        {
+            "305233": "VAN BRUNT ST/COFFEY ST"
+        },
+        {
+            "305234": "BEARD ST/VAN BRUNT ST"
+        },
+        {
+            "901462": "BEARD ST/OTSEGO ST"
+        },
+        {
+            "306086": "OTSEGO ST/LORRAINE ST"
+        },
+        {
+            "306087": "LORRAINE ST/COLUMBIA ST"
+        },
+        {
+            "306088": "LORRAINE ST/HICKS ST"
+        },
+        {
+            "306089": "LORRAINE ST/HENRY ST"
+        },
+        {
+            "801155": "CLINTON ST/LORRAINE ST"
+        },
+        {
+            "801156": "MILL ST/CLINTON ST"
+        },
+        {
+            "308081": "9 ST/SMITH ST"
+        },
+        {
+            "307695": "9 ST/2 AV"
+        },
+        {
+            "308121": "9 ST/3 AV"
+        },
+        {
+            "306633": "9 ST/4 AV"
+        },
+        {
+            "306069": "9 ST/5 AV"
+        },
+        {
+            "306070": "9 ST/6 AV"
+        },
+        {
+            "306634": "9 ST/7 AV"
+        },
+        {
+            "306072": "9 ST/8 AV"
+        },
+        {
+            "305852": "PROSPECT PARK WEST/9 ST"
+        },
+        {
+            "305853": "PROSPECT PARK WEST/12 ST"
+        },
+        {
+            "306075": "PROSPECT PARK SOUTHWEST/BARTEL PRITCHARD SQ"
+        },
+        {
+            "305855": "PROSPECT PARK WEST/16 ST"
+        },
+        {
+            "306890": "PROSPECT PARK WEST/PROSPECT AV"
+        },
+        {
+            "307227": "PROSPECT PARK WEST/18 ST"
+        },
+        {
+            "305858": "PROSPECT PARK WEST/19 ST"
+        },
+        {
+            "307521": "19 ST/8 AV"
+        },
+        {
+            "801136": "PROSPECT PARK WEST/18 ST"
+        }
+    ],
+    "B35": [
+        {
+            "308194": "39 ST/1 AV"
+        },
+        {
+            "302678": "39 ST/2 AV"
+        },
+        {
+            "302679": "39 ST/3 AV"
+        },
+        {
+            "302680": "39 ST/4 AV"
+        },
+        {
+            "302681": "39 ST/5 AV"
+        },
+        {
+            "302682": "39 ST/6 AV"
+        },
+        {
+            "302683": "39 ST/7 AV"
+        },
+        {
+            "302684": "39 ST/8 AV"
+        },
+        {
+            "306636": "39 ST/9 AV"
+        },
+        {
+            "302686": "39 ST/10 AV"
+        },
+        {
+            "302687": "39 ST/FORT HAMILTON PKWY"
+        },
+        {
+            "302688": "39 ST/12 AV"
+        },
+        {
+            "306532": "39 ST/13 AV"
+        },
+        {
+            "306524": "14 AV/39 ST"
+        },
+        {
+            "306711": "14 AV/CHURCH AV"
+        },
+        {
+            "302692": "CHURCH AV/McDONALD AV"
+        },
+        {
+            "302693": "CHURCH AV/E 3 ST"
+        },
+        {
+            "307581": "CHURCH AV/E 5 ST"
+        },
+        {
+            "302695": "CHURCH AV/OCEAN PKWY"
+        },
+        {
+            "302696": "CHURCH AV/CONEY ISLAND AV"
+        },
+        {
+            "302697": "CHURCH AV/WESTMINSTER RD"
+        },
+        {
+            "302698": "CHURCH AV/RUGBY RD"
+        },
+        {
+            "302699": "CHURCH AV/E 18 ST"
+        },
+        {
+            "302700": "CHURCH AV/OCEAN AV"
+        },
+        {
+            "302701": "CHURCH AV/FLATBUSH AV"
+        },
+        {
+            "302702": "CHURCH AV/BEDFORD AV"
+        },
+        {
+            "901728": "CHURCH AV/LLOYD ST"
+        },
+        {
+            "307792": "CHURCH AV/NOSTRAND AV"
+        },
+        {
+            "307791": "CHURCH AV/NEW YORK AV"
+        },
+        {
+            "302707": "CHURCH AV/E 37 ST"
+        },
+        {
+            "302708": "CHURCH AV/E 38 ST"
+        },
+        {
+            "302710": "CHURCH AV/E 42 ST"
+        },
+        {
+            "302711": "CHURCH AV/TROY AV"
+        },
+        {
+            "302714": "CHURCH AV/E 48 ST"
+        },
+        {
+            "302715": "CHURCH AV/UTICA AV"
+        },
+        {
+            "302716": "CHURCH AV/E 52 ST"
+        },
+        {
+            "302718": "CHURCH AV/E 56 ST"
+        },
+        {
+            "302719": "CHURCH AV/KINGS HWY"
+        },
+        {
+            "306838": "CHURCH AV/REMSEN AV"
+        },
+        {
+            "302722": "CHURCH AV/E 94 ST"
+        },
+        {
+            "302723": "CHURCH AV/E 96 ST"
+        },
+        {
+            "302724": "CHURCH AV/ROCKAWAY PKWY"
+        },
+        {
+            "308230": "E 98 ST/HEGEMAN AV"
+        },
+        {
+            "307115": "HEGEMAN AV/THOMAS S BOYLAND ST"
+        },
+        {
+            "301132": "HEGEMAN AV/ROCKAWAY AV"
+        },
+        {
+            "301133": "HEGEMAN AV/OSBORN ST"
+        },
+        {
+            "901518": "HEGEMAN AV/WATKINS ST"
+        }
+    ],
+    "B63": [
+        {
+            "306619": "SHORE RD/3 AV"
+        },
+        {
+            "305334": "4 AV/100 ST"
+        },
+        {
+            "305335": "4 AV/MARINE AV"
+        },
+        {
+            "308130": "5 AV/95 ST"
+        },
+        {
+            "305338": "5 AV/92 ST"
+        },
+        {
+            "308418": "5 AV/89 ST"
+        },
+        {
+            "305341": "5 AV/86 ST"
+        },
+        {
+            "308419": "5 AV/83 ST"
+        },
+        {
+            "305344": "5 AV/80 ST"
+        },
+        {
+            "308420": "5 AV/77 ST"
+        },
+        {
+            "305346": "5 AV/BAY RIDGE PKWY"
+        },
+        {
+            "308324": "5 AV/72 ST"
+        },
+        {
+            "305348": "5 AV/BAY RIDGE AV"
+        },
+        {
+            "305349": "5 AV/SENATOR ST"
+        },
+        {
+            "305350": "5 AV/66 ST"
+        },
+        {
+            "308325": "5 AV/63 ST"
+        },
+        {
+            "305353": "5 AV/60 ST"
+        },
+        {
+            "308326": "5 AV/57 ST"
+        },
+        {
+            "308327": "5 AV/54 ST"
+        },
+        {
+            "305357": "5 AV/52 ST"
+        },
+        {
+            "305358": "5 AV/50 ST"
+        },
+        {
+            "308328": "5 AV/47 ST"
+        },
+        {
+            "305361": "5 AV/44 ST"
+        },
+        {
+            "305362": "5 AV/41 ST"
+        },
+        {
+            "305363": "5 AV/39 ST"
+        },
+        {
+            "305364": "5 AV/36 ST"
+        },
+        {
+            "305365": "5 AV/34 ST"
+        },
+        {
+            "305367": "5 AV/30 ST"
+        },
+        {
+            "305369": "5 AV/26 ST"
+        },
+        {
+            "305370": "5 AV/24 ST"
+        },
+        {
+            "308331": "5 AV/21 ST"
+        },
+        {
+            "305373": "5 AV/18 ST"
+        },
+        {
+            "308332": "5 AV/PROSPECT AV"
+        },
+        {
+            "308333": "5 AV/14 ST"
+        },
+        {
+            "305377": "5 AV/11 ST"
+        },
+        {
+            "308204": "5 AV/9 ST"
+        },
+        {
+            "308206": "5 AV/7 ST"
+        },
+        {
+            "305380": "5 AV/5 ST"
+        },
+        {
+            "308207": "5 AV/3 ST"
+        },
+        {
+            "308208": "5 AV/GARFIELD PL"
+        },
+        {
+            "308209": "5 AV/UNION ST"
+        },
+        {
+            "308210": "5 AV/SAINT JOHNS PL"
+        },
+        {
+            "308211": "5 AV/PROSPECT PL"
+        },
+        {
+            "305388": "5 AV/BERGEN ST"
+        },
+        {
+            "307540": "ATLANTIC AV/4 AV"
+        },
+        {
+            "308323": "ATLANTIC AV/3 AV"
+        },
+        {
+            "305392": "ATLANTIC AV/NEVINS ST"
+        },
+        {
+            "305393": "ATLANTIC AV/BOND ST"
+        },
+        {
+            "305394": "ATLANTIC AV/HOYT ST"
+        },
+        {
+            "305395": "ATLANTIC AV/SMITH ST"
+        },
+        {
+            "305396": "ATLANTIC AV/BOERUM PL"
+        },
+        {
+            "305397": "ATLANTIC AV/COURT ST"
+        },
+        {
+            "305216": "ATLANTIC AV/CLINTON ST"
+        },
+        {
+            "305217": "ATLANTIC AV/HENRY ST"
+        },
+        {
+            "801007": "BROOKLYN BRIDGE PARK RD/JORALEMON ST"
+        }
+    ],
+    "B70": [
+        {
+            "306619": "SHORE RD/3 AV"
+        },
+        {
+            "305334": "4 AV/100 ST"
+        },
+        {
+            "305335": "4 AV/MARINE AV"
+        },
+        {
+            "308130": "5 AV/95 ST"
+        },
+        {
+            "305338": "5 AV/92 ST"
+        },
+        {
+            "308418": "5 AV/89 ST"
+        },
+        {
+            "305341": "5 AV/86 ST"
+        },
+        {
+            "308419": "5 AV/83 ST"
+        },
+        {
+            "305344": "5 AV/80 ST"
+        },
+        {
+            "308420": "5 AV/77 ST"
+        },
+        {
+            "305346": "5 AV/BAY RIDGE PKWY"
+        },
+        {
+            "308324": "5 AV/72 ST"
+        },
+        {
+            "305348": "5 AV/BAY RIDGE AV"
+        },
+        {
+            "305349": "5 AV/SENATOR ST"
+        },
+        {
+            "305350": "5 AV/66 ST"
+        },
+        {
+            "308325": "5 AV/63 ST"
+        },
+        {
+            "305353": "5 AV/60 ST"
+        },
+        {
+            "308326": "5 AV/57 ST"
+        },
+        {
+            "308327": "5 AV/54 ST"
+        },
+        {
+            "305357": "5 AV/52 ST"
+        },
+        {
+            "305358": "5 AV/50 ST"
+        },
+        {
+            "308328": "5 AV/47 ST"
+        },
+        {
+            "305361": "5 AV/44 ST"
+        },
+        {
+            "305362": "5 AV/41 ST"
+        },
+        {
+            "305363": "5 AV/39 ST"
+        },
+        {
+            "305364": "5 AV/36 ST"
+        },
+        {
+            "305365": "5 AV/34 ST"
+        },
+        {
+            "305367": "5 AV/30 ST"
+        },
+        {
+            "305369": "5 AV/26 ST"
+        },
+        {
+            "305370": "5 AV/24 ST"
+        },
+        {
+            "308331": "5 AV/21 ST"
+        },
+        {
+            "305373": "5 AV/18 ST"
+        },
+        {
+            "308332": "5 AV/PROSPECT AV"
+        },
+        {
+            "308333": "5 AV/14 ST"
+        },
+        {
+            "305377": "5 AV/11 ST"
+        },
+        {
+            "308204": "5 AV/9 ST"
+        },
+        {
+            "308206": "5 AV/7 ST"
+        },
+        {
+            "305380": "5 AV/5 ST"
+        },
+        {
+            "308207": "5 AV/3 ST"
+        },
+        {
+            "308208": "5 AV/GARFIELD PL"
+        },
+        {
+            "308209": "5 AV/UNION ST"
+        },
+        {
+            "308210": "5 AV/SAINT JOHNS PL"
+        },
+        {
+            "308211": "5 AV/PROSPECT PL"
+        },
+        {
+            "305388": "5 AV/BERGEN ST"
+        },
+        {
+            "307540": "ATLANTIC AV/4 AV"
+        },
+        {
+            "308323": "ATLANTIC AV/3 AV"
+        },
+        {
+            "305392": "ATLANTIC AV/NEVINS ST"
+        },
+        {
+            "305393": "ATLANTIC AV/BOND ST"
+        },
+        {
+            "305394": "ATLANTIC AV/HOYT ST"
+        },
+        {
+            "305395": "ATLANTIC AV/SMITH ST"
+        },
+        {
+            "305396": "ATLANTIC AV/BOERUM PL"
+        },
+        {
+            "305397": "ATLANTIC AV/COURT ST"
+        },
+        {
+            "305216": "ATLANTIC AV/CLINTON ST"
+        },
+        {
+            "305217": "ATLANTIC AV/HENRY ST"
+        },
+        {
+            "801007": "BROOKLYN BRIDGE PARK RD/JORALEMON ST"
+        }
+    ],
+    "B11": [
+        {
+            "308973": "58 ST/ 2 AV"
+        },
+        {
+            "307485": "2 AV/56 ST"
+        },
+        {
+            "301162": "52 ST/2 AV"
+        },
+        {
+            "308052": "52 ST/3 AV"
+        },
+        {
+            "306579": "52 ST/4 AV"
+        },
+        {
+            "306580": "50 ST/4 AV"
+        },
+        {
+            "306581": "50 ST/5 AV"
+        },
+        {
+            "301168": "50 ST/6 AV"
+        },
+        {
+            "307618": "50 ST/7 AV"
+        },
+        {
+            "301170": "50 ST/8 AV"
+        },
+        {
+            "301171": "50 ST/9 AV"
+        },
+        {
+            "301172": "50 ST/10 AV"
+        },
+        {
+            "301173": "50 ST/FORT HAMILTON PKWY"
+        },
+        {
+            "301174": "50 ST/11 AV"
+        },
+        {
+            "301175": "50 ST/NEW UTRECHT AV"
+        },
+        {
+            "307619": "50 ST/13 AV"
+        },
+        {
+            "301177": "50 ST/14 AV"
+        },
+        {
+            "301178": "50 ST/15 AV"
+        },
+        {
+            "301179": "50 ST/16 AV"
+        },
+        {
+            "301180": "50 ST/17 AV"
+        },
+        {
+            "306965": "50 ST/18 AV"
+        },
+        {
+            "301182": "50 ST/19 AV"
+        },
+        {
+            "301183": "50 ST/20 AV"
+        },
+        {
+            "301184": "AVENUE I/McDONALD AV"
+        },
+        {
+            "301185": "AVENUE I/E 3 ST"
+        },
+        {
+            "307394": "AVENUE I/OCEAN PKWY"
+        },
+        {
+            "301187": "AVENUE I/E 7 ST"
+        },
+        {
+            "301188": "AVENUE I/E 9 ST"
+        },
+        {
+            "301189": "CONEY ISLAND AV/AVENUE I"
+        },
+        {
+            "308053": "AVENUE J/CONEY ISLAND AV"
+        },
+        {
+            "300529": "AVENUE J/E 16 ST"
+        },
+        {
+            "300530": "AVENUE J/E 18 ST"
+        },
+        {
+            "307706": "AVENUE J/OCEAN AV"
+        },
+        {
+            "300532": "AVENUE J/E 22 ST"
+        },
+        {
+            "300534": "BEDFORD AV/AVENUE J"
+        },
+        {
+            "300535": "BEDFORD AV/AVENUE I"
+        },
+        {
+            "300536": "BEDFORD AV/CAMPUS RD"
+        },
+        {
+            "300538": "GLENWOOD RD/BEDFORD AV"
+        },
+        {
+            "300540": "GLENWOOD RD/FLATBUSH AV"
+        },
+        {
+            "306468": "NOSTRAND AV/FLATBUSH AV"
+        }
+    ],
+    "B4": [
+        {
+            "300350": "KNAPP ST/HARKNESS AV"
+        },
+        {
+            "300351": "KNAPP ST/SHORE PKWY"
+        },
+        {
+            "307854": "EMMONS AV/BRIGHAM ST"
+        },
+        {
+            "306701": "EMMONS AV/FORD ST"
+        },
+        {
+            "306702": "EMMONS AV/BROWN ST"
+        },
+        {
+            "307020": "EMMONS AV/NOSTRAND AV"
+        },
+        {
+            "300356": "EMMONS AV/E 28 ST"
+        },
+        {
+            "300357": "EMMONS AV/E 26 ST"
+        },
+        {
+            "300358": "EMMONS AV/DOOLEY ST"
+        },
+        {
+            "307033": "OCEAN AV/SHORE PKWY"
+        },
+        {
+            "300339": "OCEAN AV/VOORHIES AV"
+        },
+        {
+            "300361": "AVENUE Z/OCEAN AV"
+        },
+        {
+            "300362": "AVENUE Z/E 18 ST"
+        },
+        {
+            "300363": "E 16 ST/SHEEPSHEAD BAY RD"
+        },
+        {
+            "300364": "SHEEPSHEAD BAY RD/VOORHIES AV"
+        },
+        {
+            "304019": "SHEEPSHEAD BAY RD/SHORE PKWY"
+        },
+        {
+            "300366": "SHEEPSHEAD BAY RD/EMMONS AV"
+        },
+        {
+            "300367": "EMMONS AV/E 16 ST"
+        },
+        {
+            "300368": "EMMONS AV/E 14 ST"
+        },
+        {
+            "300369": "NEPTUNE AV/E 12 ST"
+        },
+        {
+            "300370": "NEPTUNE AV/CONEY ISLAND AV"
+        },
+        {
+            "300372": "NEPTUNE AV/BRIGHTON 6 ST"
+        },
+        {
+            "300373": "NEPTUNE AV/BRIGHTON 4 ST"
+        },
+        {
+            "300374": "NEPTUNE AV/OCEAN PKWY"
+        },
+        {
+            "300019": "OCEAN PKWY/WEST AV"
+        },
+        {
+            "300020": "OCEAN PKWY/SHORE PKWY"
+        },
+        {
+            "300377": "AVENUE Z/OCEAN PKWY"
+        },
+        {
+            "300378": "AVENUE Z/WEST ST"
+        },
+        {
+            "300379": "AVENUE Z/W 2 ST"
+        },
+        {
+            "300380": "AVENUE Z/SHELL RD"
+        },
+        {
+            "300381": "SHELL RD/BOUCK CT"
+        },
+        {
+            "300026": "86 ST/VAN SICKLEN ST"
+        },
+        {
+            "308183": "86 ST/W 7 ST"
+        },
+        {
+            "300028": "86 ST/W 9 ST"
+        },
+        {
+            "300030": "86 ST/AVENUE U"
+        },
+        {
+            "300031": "86 ST/STILLWELL AV"
+        },
+        {
+            "306268": "STILLWELL AV/AVENUE T"
+        },
+        {
+            "300388": "STILLWELL AV/AVENUE S"
+        },
+        {
+            "300389": "STILLWELL AV/HIGHLAWN AV"
+        },
+        {
+            "300390": "STILLWELL AV/QUENTIN RD"
+        },
+        {
+            "300391": "STILLWELL AV/KINGS HWY"
+        },
+        {
+            "300393": "BAY RIDGE PKWY/BAY PKWY"
+        },
+        {
+            "300394": "BAY RIDGE PKWY/21 AV"
+        },
+        {
+            "300395": "BAY RIDGE PKWY/20 AV"
+        },
+        {
+            "300396": "BAY RIDGE PKWY/19 AV"
+        },
+        {
+            "300397": "BAY RIDGE PKWY/18 AV"
+        },
+        {
+            "300398": "BAY RIDGE PKWY/17 AV"
+        },
+        {
+            "300399": "BAY RIDGE PKWY/NEW UTRECHT AV"
+        },
+        {
+            "300400": "BAY RIDGE PKWY/15 AV"
+        },
+        {
+            "300401": "BAY RIDGE PKWY/14 AV"
+        },
+        {
+            "300402": "BAY RIDGE PKWY/13 AV"
+        },
+        {
+            "300403": "BAY RIDGE PKWY/12 AV"
+        },
+        {
+            "300404": "BAY RIDGE PKWY/11 AV"
+        },
+        {
+            "300405": "BAY RIDGE PKWY/10 AV"
+        },
+        {
+            "300406": "BAY RIDGE PKWY/FORT HAMILTON PKWY"
+        },
+        {
+            "300407": "BAY RIDGE PKWY/7 AV"
+        },
+        {
+            "300408": "BAY RIDGE PKWY/6 AV"
+        },
+        {
+            "300409": "BAY RIDGE PKWY/5 AV"
+        },
+        {
+            "300410": "4 AV/BAY RIDGE PKWY"
+        },
+        {
+            "300411": "4 AV/77 ST"
+        },
+        {
+            "300412": "78 ST/4 AV"
+        },
+        {
+            "300413": "78 ST/3 AV"
+        },
+        {
+            "300414": "78 ST/RIDGE BLVD"
+        },
+        {
+            "300415": "78 ST/COLONIAL RD"
+        },
+        {
+            "901003": "NARROWS AV/77 ST"
+        }
+    ],
+    "B9": [
+        {
+            "307941": "SHORE RD/71 ST"
+        },
+        {
+            "300071": "BAY RIDGE AV/SHORE RD"
+        },
+        {
+            "307200": "BAY RIDGE AV/NARROWS AV"
+        },
+        {
+            "300073": "BAY RIDGE AV/COLONIAL RD"
+        },
+        {
+            "300074": "BAY RIDGE AV/RIDGE BLVD"
+        },
+        {
+            "300075": "BAY RIDGE AV/3 AV"
+        },
+        {
+            "901693": "4 AV/BAY RIDGE AV"
+        },
+        {
+            "308240": "4 AV/SENATOR ST"
+        },
+        {
+            "308650": "4 AV/65 ST"
+        },
+        {
+            "308242": "4 AV/63 ST"
+        },
+        {
+            "300926": "60 ST/4 AV"
+        },
+        {
+            "300927": "60 ST/5 AV"
+        },
+        {
+            "300928": "60 ST/6 AV"
+        },
+        {
+            "307166": "60 ST/7 AV"
+        },
+        {
+            "300930": "60 ST/8 AV"
+        },
+        {
+            "308367": "60 ST/9 AV"
+        },
+        {
+            "307071": "60 ST/FORT HAMILTON PKWY"
+        },
+        {
+            "307201": "60 ST/11 AV"
+        },
+        {
+            "300934": "60 ST/12 AV"
+        },
+        {
+            "300935": "60 ST/13 AV"
+        },
+        {
+            "300936": "60 ST/14 AV"
+        },
+        {
+            "300937": "60 ST/15 AV"
+        },
+        {
+            "300938": "60 ST/16 AV"
+        },
+        {
+            "307702": "60 ST/17 AV"
+        },
+        {
+            "300940": "60 ST/18 AV"
+        },
+        {
+            "307194": "60 ST/19 AV"
+        },
+        {
+            "300942": "60 ST/20 AV"
+        },
+        {
+            "307195": "60 ST/21 AV"
+        },
+        {
+            "300944": "60 ST/BAY PKWY"
+        },
+        {
+            "300945": "60 ST/23 AV"
+        },
+        {
+            "307945": "AVENUE N/MCDONALD AV"
+        },
+        {
+            "306819": "AVENUE N/E 3 ST"
+        },
+        {
+            "307625": "AVENUE N/E 5 ST"
+        },
+        {
+            "300950": "OCEAN PKWY SOUTH/AVENUE M"
+        },
+        {
+            "300952": "AVENUE M/E 9 ST"
+        },
+        {
+            "307111": "AVENUE M/CONEY ISLAND AV"
+        },
+        {
+            "307832": "AVENUE M/E 13 ST"
+        },
+        {
+            "307838": "AVENUE M/E 15 ST"
+        },
+        {
+            "300956": "AVENUE M/E 18 ST"
+        },
+        {
+            "300957": "OCEAN AV/AVENUE M"
+        },
+        {
+            "300958": "AVENUE L/OCEAN AV"
+        },
+        {
+            "300959": "AVENUE L/E 22 ST"
+        },
+        {
+            "306830": "AVENUE L/BEDFORD AV"
+        },
+        {
+            "300962": "AVENUE L/E 28 ST"
+        },
+        {
+            "300963": "AVENUE L/NOSTRAND AV"
+        },
+        {
+            "306782": "AVENUE L/NEW YORK AV"
+        },
+        {
+            "300966": "AVENUE L/E 36 ST"
+        },
+        {
+            "307199": "AVENUE L/FLATBUSH AV"
+        }
+    ],
+    "B37": [
+        {
+            "301602": "SHORE RD/4 AV"
+        },
+        {
+            "301722": "3 AV/MARINE AV"
+        },
+        {
+            "302873": "3 AV/97 ST"
+        },
+        {
+            "302874": "3 AV/94 ST"
+        },
+        {
+            "302875": "3 AV/92 ST"
+        },
+        {
+            "302876": "3 AV/90 ST"
+        },
+        {
+            "302877": "3 AV/88 ST"
+        },
+        {
+            "302878": "3 AV/86 ST"
+        },
+        {
+            "308254": "3 AV/82 ST"
+        },
+        {
+            "302881": "3 AV/80 ST"
+        },
+        {
+            "302882": "3 AV/78 ST"
+        },
+        {
+            "302883": "3 AV/BAY RIDGE PKWY"
+        },
+        {
+            "308255": "3 AV/72 ST"
+        },
+        {
+            "300922": "3 AV/BAY RIDGE AV"
+        },
+        {
+            "307078": "3 AV/SENATOR ST"
+        },
+        {
+            "300924": "3 AV/65 ST"
+        },
+        {
+            "302889": "3 AV/60 ST"
+        },
+        {
+            "302890": "3 AV/58 ST"
+        },
+        {
+            "302891": "3 AV/56 ST"
+        },
+        {
+            "302892": "3 AV/53 ST"
+        },
+        {
+            "302894": "3 AV/50 ST"
+        },
+        {
+            "901480": "3 AV/47 ST"
+        },
+        {
+            "302897": "3 AV/44 ST"
+        },
+        {
+            "302898": "3 AV/42 ST"
+        },
+        {
+            "302899": "3 AV/39 ST"
+        },
+        {
+            "302900": "3 AV/37 ST"
+        },
+        {
+            "901481": "3 AV/34 ST"
+        },
+        {
+            "302903": "3 AV/30 ST"
+        },
+        {
+            "302905": "3 AV/26 ST"
+        },
+        {
+            "308257": "3 AV/23 ST"
+        },
+        {
+            "302908": "3 AV/20 ST"
+        },
+        {
+            "308258": "3 AV/15 ST"
+        },
+        {
+            "901482": "3 AV/12 ST"
+        },
+        {
+            "801173": "3 AV/8 ST"
+        },
+        {
+            "302914": "3 AV/6 ST"
+        },
+        {
+            "302915": "3 AV/3 ST"
+        },
+        {
+            "302916": "3 AV/CARROLL ST"
+        },
+        {
+            "302917": "3 AV/UNION ST"
+        },
+        {
+            "302918": "3 AV/DOUGLASS ST"
+        },
+        {
+            "308259": "3 AV/BALTIC ST"
+        },
+        {
+            "308260": "3 AV/DEAN ST"
+        },
+        {
+            "305412": "ATLANTIC AV/4 AV"
+        },
+        {
+            "801172": "4 AV/DEAN ST"
+        }
+    ]
+}

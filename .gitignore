@@ -1,0 +1,99 @@
+.DS_Store
+main.dSYM/Contents/Resources/DWARF/main
+parser.dSYM/Contents/Resources/DWARF/parser
+parser
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dylib
+*.so
+*.so.*
+
+# Executables
+*.exe
+*.out
+*.app
+*.dll
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS specific
+.DS_Store
+*.plist
+
+# Xcode specific
+*.xcuserstate
+*.xcuserdatad
+*.xccheckout
+*.xcscmblueprint
+
+# Makefile generated files
+Makefile.in
+autom4te.cache/
+*.deps/
+*.dirstamp
+
+# Autotools
+/aclocal.m4
+/compile
+/config.guess
+/config.h
+/config.h.in
+/config.log
+/config.status
+/config.sub
+/configure
+/depcomp
+/install-sh
+/libtool
+/ltmain.sh
+/missing
+/stamp-h1
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+*.cmake
+
+# Temp files
+*~
+*.bak
+*.tmp
+main
